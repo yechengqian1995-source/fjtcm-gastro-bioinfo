@@ -1,4 +1,4 @@
-# GitHub upload checklist
+# GitHub upload checklist and deposition note
 
 Repository URL currently shown by GitHub:
 https://github.com/yechengqian1995-source/fjtcm-gastro-bioinfo
@@ -24,11 +24,9 @@ E:\网毒\masld_mechanical_memory\repository_deposit_v1.0.0
 
 ## After upload
 
-1. Commit message: Initial reproducibility archive for MASLD mechanostress study
-2. After commit, copy the short commit hash from the GitHub page.
-3. Create a release named v1.0.0.
-4. Connect the GitHub repository to Zenodo and archive release v1.0.0.
-5. Replace manuscript placeholders with the final GitHub URL, release tag, commit hash, and Zenodo DOI.
+1. Confirm that processed result tables, supplementary tables, reproducibility notes and analysis scripts are present.
+2. After each deposition update, copy the final release tag, commit hash and Zenodo version DOI into the manuscript Data Availability statement.
+3. For the submission archive, use the release tag `v1.0.4` or a later verified release.
 
 ## Do not upload separately
 

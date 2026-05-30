@@ -21,13 +21,15 @@ The scripts are numbered to reflect the intended analysis order. Processed resul
 
 ## Version
 
-Manuscript submission archive: `v1.0.3`
+Manuscript submission archive: `v1.0.4`
 
 GitHub repository: `https://github.com/yechengqian1995-source/fjtcm-gastro-bioinfo`
 
-Commit: `d70043d0c0e1e112798355a8de7715166c975ac4`
+Release tag: `v1.0.4`
 
-Zenodo DOI: `10.5281/zenodo.20457881`
+Zenodo concept DOI: `10.5281/zenodo.20457880`
+
+Use the version-specific Zenodo DOI minted for the cited release in manuscript data and code availability statements.
 
 ## License
 
