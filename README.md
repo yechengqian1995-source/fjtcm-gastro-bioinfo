@@ -21,15 +21,16 @@ The scripts are numbered to reflect the intended analysis order. Processed resul
 
 ## Version
 
-Manuscript submission archive: `v1.0.0`
+Manuscript submission archive: `v1.0.1`
 
 GitHub repository: `https://github.com/yechengqian1995-source/fjtcm-gastro-bioinfo`
 
-Commit: `1d5d0c440e2f84e45a4c78bcc602111b319927d7`
+Commit: see the GitHub release tag for the exact archived commit.
 
-Zenodo DOI: `TO_BE_FILLED_AFTER_RELEASE_ARCHIVE`
+Zenodo DOI: to be assigned by Zenodo after release archiving.
 
 ## License
 
 Code is released under the MIT License. Processed tables and documentation are provided for academic reuse with citation of the associated manuscript and archived repository record.
+
 

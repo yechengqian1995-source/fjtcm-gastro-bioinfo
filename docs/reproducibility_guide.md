@@ -22,4 +22,5 @@ Raw public datasets are not redistributed. Download raw inputs from the original
 
 ## Version to cite
 
-Use release `v1.0.0` for the manuscript submission archive. After a GitHub release and Zenodo archive are created, replace the placeholders in the manuscript with the real GitHub URL, commit hash, and Zenodo DOI.
+Use release `v1.0.1` for the manuscript submission archive. After a GitHub release and Zenodo archive are created, replace the placeholders in the manuscript with the real GitHub URL, commit hash, and Zenodo DOI.
+

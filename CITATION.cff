@@ -1,6 +1,6 @@
 ﻿cff-version: 1.2.0
 title: "Reproducibility archive for a MASLD fibrosis mechanostress/stromal transcriptomic program"
-version: "1.0.0"
+version: "1.0.1"
 type: software
 message: "If you use this repository, please cite the associated manuscript and archived Zenodo record."
 authors:
@@ -32,3 +32,4 @@ keywords:
   - mechanostress
   - bioinformatics
 license: "MIT"
+
