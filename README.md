@@ -25,10 +25,11 @@ Manuscript submission archive: `v1.0.0`
 
 GitHub repository: `https://github.com/yechengqian1995-source/fjtcm-gastro-bioinfo`
 
-Commit: `TO_BE_FILLED_AFTER_UPLOAD`
+Commit: `1d5d0c440e2f84e45a4c78bcc602111b319927d7`
 
 Zenodo DOI: `TO_BE_FILLED_AFTER_RELEASE_ARCHIVE`
 
 ## License
 
 Code is released under the MIT License. Processed tables and documentation are provided for academic reuse with citation of the associated manuscript and archived repository record.
+
