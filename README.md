@@ -27,9 +27,11 @@ GitHub repository: `https://github.com/yechengqian1995-source/fjtcm-gastro-bioin
 
 Release tag: `v1.0.4`
 
-Zenodo concept DOI: `10.5281/zenodo.20457880`
+Release commit: `ddf39e7edf0a47c0f4ecd29b95ce514d38d62225`
 
-Use the version-specific Zenodo DOI minted for the cited release in manuscript data and code availability statements.
+Zenodo version DOI: `10.5281/zenodo.20458128`
+
+Zenodo concept DOI: `10.5281/zenodo.20457880`
 
 ## License
 
