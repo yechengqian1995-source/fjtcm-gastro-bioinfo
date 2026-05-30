@@ -25,9 +25,9 @@ Manuscript submission archive: `v1.0.3`
 
 GitHub repository: `https://github.com/yechengqian1995-source/fjtcm-gastro-bioinfo`
 
-Commit: see the GitHub release tag for the exact archived commit.
+Commit: `d70043d0c0e1e112798355a8de7715166c975ac4`
 
-Zenodo DOI: to be assigned by Zenodo after release archiving.
+Zenodo DOI: `10.5281/zenodo.20457881`
 
 ## License
 
