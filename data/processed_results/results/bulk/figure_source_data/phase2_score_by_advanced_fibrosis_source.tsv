@@ -1,0 +1,1312 @@
+accession	sample_id	advanced_fibrosis	score_name	score_z	score_label
+GSE130970	440349.1.X_1	advanced	primary	1.6311945752228505	Primary locked score
+GSE130970	440349.1.X_1	advanced	ecm_excluded	1.635851541825396	ECM-excluded score
+GSE130970	440349.1.X_1	advanced	structural_ecm	1.3970822499227111	Structural ECM-only
+GSE130970	440350.1.X_1	advanced	primary	0.6093838822455151	Primary locked score
+GSE130970	440350.1.X_1	advanced	ecm_excluded	0.5262733121885397	ECM-excluded score
+GSE130970	440350.1.X_1	advanced	structural_ecm	0.7845591165027315	Structural ECM-only
+GSE130970	440351.1.X_4	advanced	primary	1.4009273768054191	Primary locked score
+GSE130970	440351.1.X_4	advanced	ecm_excluded	1.3650383596453697	ECM-excluded score
+GSE130970	440351.1.X_4	advanced	structural_ecm	1.3233296667758483	Structural ECM-only
+GSE130970	440352.1.X_4	advanced	primary	0.6058923307042959	Primary locked score
+GSE130970	440352.1.X_4	advanced	ecm_excluded	0.5425265867812944	ECM-excluded score
+GSE130970	440352.1.X_4	advanced	structural_ecm	0.7204221255134569	Structural ECM-only
+GSE130970	440353.1.X_4	advanced	primary	5.378743171379865	Primary locked score
+GSE130970	440353.1.X_4	advanced	ecm_excluded	5.784135584092999	ECM-excluded score
+GSE130970	440353.1.X_4	advanced	structural_ecm	3.3995045342864603	Structural ECM-only
+GSE130970	440354.1.X_4	advanced	primary	0.8673332025596469	Primary locked score
+GSE130970	440354.1.X_4	advanced	ecm_excluded	1.0398127370060344	ECM-excluded score
+GSE130970	440354.1.X_4	advanced	structural_ecm	0.216644400308676	Structural ECM-only
+GSE130970	440355.1.X_4	advanced	primary	0.7279464603871815	Primary locked score
+GSE130970	440355.1.X_4	advanced	ecm_excluded	0.4175124835835956	ECM-excluded score
+GSE130970	440355.1.X_4	advanced	structural_ecm	1.590781910499282	Structural ECM-only
+GSE130970	440357.1.X_5	advanced	primary	1.045940455592991	Primary locked score
+GSE130970	440357.1.X_5	advanced	ecm_excluded	1.016529720988428	ECM-excluded score
+GSE130970	440357.1.X_5	advanced	structural_ecm	0.996102143969674	Structural ECM-only
+GSE130970	440375.1.X_8	advanced	primary	0.31614361086958004	Primary locked score
+GSE130970	440375.1.X_8	advanced	ecm_excluded	0.2824261540619123	ECM-excluded score
+GSE130970	440375.1.X_8	advanced	structural_ecm	0.3779286110344108	Structural ECM-only
+GSE130970	440376.1.X_1	advanced	primary	-0.9795098449213456	Primary locked score
+GSE130970	440376.1.X_1	advanced	ecm_excluded	-0.9120213911824586	ECM-excluded score
+GSE130970	440376.1.X_1	advanced	structural_ecm	-1.0564798273192255	Structural ECM-only
+GSE130970	440377.1.X_1	advanced	primary	0.5532437381096157	Primary locked score
+GSE130970	440377.1.X_1	advanced	ecm_excluded	0.30298694674871274	ECM-excluded score
+GSE130970	440377.1.X_1	advanced	structural_ecm	1.253344016639176	Structural ECM-only
+GSE130970	440378.1.X_1	non_advanced	primary	0.11060510723872108	Primary locked score
+GSE130970	440378.1.X_1	non_advanced	ecm_excluded	-0.06797202784817773	ECM-excluded score
+GSE130970	440378.1.X_1	non_advanced	structural_ecm	0.6484538790556306	Structural ECM-only
+GSE130970	440379.1.X_1	non_advanced	primary	-0.4864877498749897	Primary locked score
+GSE130970	440379.1.X_1	non_advanced	ecm_excluded	-0.3465675661386326	ECM-excluded score
+GSE130970	440379.1.X_1	non_advanced	structural_ecm	-0.8540567429295819	Structural ECM-only
+GSE130970	440380.1.X_1	non_advanced	primary	0.4364582220426867	Primary locked score
+GSE130970	440380.1.X_1	non_advanced	ecm_excluded	0.39102685188269	ECM-excluded score
+GSE130970	440380.1.X_1	non_advanced	structural_ecm	0.5182964305719878	Structural ECM-only
+GSE130970	440381.1.X_1	non_advanced	primary	-0.7882504104966985	Primary locked score
+GSE130970	440381.1.X_1	non_advanced	ecm_excluded	-0.7050843788058909	ECM-excluded score
+GSE130970	440381.1.X_1	non_advanced	structural_ecm	-0.9395066443712432	Structural ECM-only
+GSE130970	440382.1.X_1	non_advanced	primary	-0.8320136927176607	Primary locked score
+GSE130970	440382.1.X_1	non_advanced	ecm_excluded	-0.3856715036317495	ECM-excluded score
+GSE130970	440382.1.X_1	non_advanced	structural_ecm	-2.1015063481985634	Structural ECM-only
+GSE130970	440383.1.X_1	non_advanced	primary	0.9304063916913752	Primary locked score
+GSE130970	440383.1.X_1	non_advanced	ecm_excluded	0.7219211042814653	ECM-excluded score
+GSE130970	440383.1.X_1	non_advanced	structural_ecm	1.450414090961708	Structural ECM-only
+GSE130970	440384.1.X_1	non_advanced	primary	-0.1921712296368882	Primary locked score
+GSE130970	440384.1.X_1	non_advanced	ecm_excluded	-0.05737136993644475	ECM-excluded score
+GSE130970	440384.1.X_1	non_advanced	structural_ecm	-0.5835314749083622	Structural ECM-only
+GSE130970	440385.1.X_1	non_advanced	primary	-0.0177563413573394	Primary locked score
+GSE130970	440385.1.X_1	non_advanced	ecm_excluded	-0.16954298424410386	ECM-excluded score
+GSE130970	440385.1.X_1	non_advanced	structural_ecm	0.4544568290308849	Structural ECM-only
+GSE130970	440388.1.X_1	non_advanced	primary	-0.8147686818796593	Primary locked score
+GSE130970	440388.1.X_1	non_advanced	ecm_excluded	-1.0156900608509492	ECM-excluded score
+GSE130970	440388.1.X_1	non_advanced	structural_ecm	-0.08312416344953935	Structural ECM-only
+GSE130970	440389.1.X_1	non_advanced	primary	-0.19089474842827292	Primary locked score
+GSE130970	440389.1.X_1	non_advanced	ecm_excluded	-0.3158865078925927	ECM-excluded score
+GSE130970	440389.1.X_1	non_advanced	structural_ecm	0.2217000209276161	Structural ECM-only
+GSE130970	440390.1.X_1	non_advanced	primary	0.2691015239754986	Primary locked score
+GSE130970	440390.1.X_1	non_advanced	ecm_excluded	0.19023886161806144	ECM-excluded score
+GSE130970	440390.1.X_1	non_advanced	structural_ecm	0.4769592972759645	Structural ECM-only
+GSE130970	440391.1.X_3	non_advanced	primary	-0.5807721560096066	Primary locked score
+GSE130970	440391.1.X_3	non_advanced	ecm_excluded	-0.5566591549632504	ECM-excluded score
+GSE130970	440391.1.X_3	non_advanced	structural_ecm	-0.577187166680675	Structural ECM-only
+GSE130970	440393.1.X_3	non_advanced	primary	-0.5795457328876009	Primary locked score
+GSE130970	440393.1.X_3	non_advanced	ecm_excluded	-0.7349487700526806	ECM-excluded score
+GSE130970	440393.1.X_3	non_advanced	structural_ecm	-0.02047411970112925	Structural ECM-only
+GSE130970	440394.1.X_3	non_advanced	primary	1.0938710735244412	Primary locked score
+GSE130970	440394.1.X_3	non_advanced	ecm_excluded	1.0311977008179545	ECM-excluded score
+GSE130970	440394.1.X_3	non_advanced	structural_ecm	1.140534285965613	Structural ECM-only
+GSE130970	440395.1.X_3	non_advanced	primary	0.4179867880826797	Primary locked score
+GSE130970	440395.1.X_3	non_advanced	ecm_excluded	0.2597196088672982	ECM-excluded score
+GSE130970	440395.1.X_3	non_advanced	structural_ecm	0.851570872157678	Structural ECM-only
+GSE130970	440408.1.X_6	advanced	primary	-0.350680160895322	Primary locked score
+GSE130970	440408.1.X_6	advanced	ecm_excluded	-0.4165767449756122	ECM-excluded score
+GSE130970	440408.1.X_6	advanced	structural_ecm	-0.09948058309904628	Structural ECM-only
+GSE130970	440409.1.X_6	advanced	primary	-0.28230081458266826	Primary locked score
+GSE130970	440409.1.X_6	advanced	ecm_excluded	-0.27524531487149095	ECM-excluded score
+GSE130970	440409.1.X_6	advanced	structural_ecm	-0.2661178038918898	Structural ECM-only
+GSE130970	440410.1.X_6	advanced	primary	2.6514034094285845	Primary locked score
+GSE130970	440410.1.X_6	advanced	ecm_excluded	2.683202948735701	ECM-excluded score
+GSE130970	440410.1.X_6	advanced	structural_ecm	2.195870307714942	Structural ECM-only
+GSE130970	440411.1.X_7	advanced	primary	1.4169459645214149	Primary locked score
+GSE130970	440411.1.X_7	advanced	ecm_excluded	1.371411564855143	ECM-excluded score
+GSE130970	440411.1.X_7	advanced	structural_ecm	1.3670459156572543	Structural ECM-only
+GSE130970	440417.1.X_8	non_advanced	primary	-0.35572351312152756	Primary locked score
+GSE130970	440417.1.X_8	non_advanced	ecm_excluded	-0.3697384906073219	ECM-excluded score
+GSE130970	440417.1.X_8	non_advanced	structural_ecm	-0.2644325970189108	Structural ECM-only
+GSE130970	440418.1.X_8	non_advanced	primary	-0.7449126220119414	Primary locked score
+GSE130970	440418.1.X_8	non_advanced	ecm_excluded	-0.6620252109438921	ECM-excluded score
+GSE130970	440418.1.X_8	non_advanced	structural_ecm	-0.901143405556949	Structural ECM-only
+GSE130970	440419.1.X_8	non_advanced	primary	-0.9612386433077929	Primary locked score
+GSE130970	440419.1.X_8	non_advanced	ecm_excluded	-0.934183491710906	ECM-excluded score
+GSE130970	440419.1.X_8	non_advanced	structural_ecm	-0.9155172288853022	Structural ECM-only
+GSE130970	440420.1.X_8	non_advanced	primary	-0.19439881449114327	Primary locked score
+GSE130970	440420.1.X_8	non_advanced	ecm_excluded	-0.21138515814644496	ECM-excluded score
+GSE130970	440420.1.X_8	non_advanced	structural_ecm	-0.11563874311643572	Structural ECM-only
+GSE130970	440421.1.X_1	non_advanced	primary	0.4697969077266008	Primary locked score
+GSE130970	440421.1.X_1	non_advanced	ecm_excluded	0.5595484891380444	ECM-excluded score
+GSE130970	440421.1.X_1	non_advanced	structural_ecm	0.12871625346557478	Structural ECM-only
+GSE130970	440422.1.X_1	non_advanced	primary	-0.12151424038336976	Primary locked score
+GSE130970	440422.1.X_1	non_advanced	ecm_excluded	-0.08462562940134562	ECM-excluded score
+GSE130970	440422.1.X_1	non_advanced	structural_ecm	-0.21932853071269748	Structural ECM-only
+GSE130970	440423.1.X_1	non_advanced	primary	-0.554491660538048	Primary locked score
+GSE130970	440423.1.X_1	non_advanced	ecm_excluded	-0.5631604648003534	ECM-excluded score
+GSE130970	440423.1.X_1	non_advanced	structural_ecm	-0.4529775071604875	Structural ECM-only
+GSE130970	440424.1.X_1	non_advanced	primary	-1.0294302717956487	Primary locked score
+GSE130970	440424.1.X_1	non_advanced	ecm_excluded	-0.8430530624425464	ECM-excluded score
+GSE130970	440424.1.X_1	non_advanced	structural_ecm	-1.4676703043261972	Structural ECM-only
+GSE130970	440426.1.X_2	non_advanced	primary	-1.3216068088310633	Primary locked score
+GSE130970	440426.1.X_2	non_advanced	ecm_excluded	-1.200897325816308	ECM-excluded score
+GSE130970	440426.1.X_2	non_advanced	structural_ecm	-1.517235212355001	Structural ECM-only
+GSE130970	440429.1.X_2	non_advanced	primary	-0.38995072984281554	Primary locked score
+GSE130970	440429.1.X_2	non_advanced	ecm_excluded	-0.3698185559994022	ECM-excluded score
+GSE130970	440429.1.X_2	non_advanced	structural_ecm	-0.3997447959375508	Structural ECM-only
+GSE130970	440430.1.X_2	non_advanced	primary	-0.1125538428797347	Primary locked score
+GSE130970	440430.1.X_2	non_advanced	ecm_excluded	-0.2768786488699745	ECM-excluded score
+GSE130970	440430.1.X_2	non_advanced	structural_ecm	0.4112362292297681	Structural ECM-only
+GSE130970	440432.1.X_1	non_advanced	primary	-0.28372747005112275	Primary locked score
+GSE130970	440432.1.X_1	non_advanced	ecm_excluded	-0.37856169681481766	ECM-excluded score
+GSE130970	440432.1.X_1	non_advanced	structural_ecm	0.04802458319467874	Structural ECM-only
+GSE130970	440435.1.X_3	non_advanced	primary	0.614589923253211	Primary locked score
+GSE130970	440435.1.X_3	non_advanced	ecm_excluded	0.5090432398123739	ECM-excluded score
+GSE130970	440435.1.X_3	non_advanced	structural_ecm	0.8585099592817085	Structural ECM-only
+GSE130970	440436.1.X_4	non_advanced	primary	-0.5510001089968288	Primary locked score
+GSE130970	440436.1.X_4	non_advanced	ecm_excluded	-0.460564671385767	ECM-excluded score
+GSE130970	440436.1.X_4	non_advanced	structural_ecm	-0.7567112635610073	Structural ECM-only
+GSE130970	440437.1.X_1	non_advanced	primary	0.7533759683863247	Primary locked score
+GSE130970	440437.1.X_1	non_advanced	ecm_excluded	0.7997766915425409	ECM-excluded score
+GSE130970	440437.1.X_1	non_advanced	structural_ecm	0.508284319150168	Structural ECM-only
+GSE130970	440438.1.X_4	non_advanced	primary	-0.5568694196521423	Primary locked score
+GSE130970	440438.1.X_4	non_advanced	ecm_excluded	-0.5266826721675437	ECM-excluded score
+GSE130970	440438.1.X_4	non_advanced	structural_ecm	-0.5753037001755786	Structural ECM-only
+GSE130970	440440.1.X_4	non_advanced	primary	-1.4180437126900132	Primary locked score
+GSE130970	440440.1.X_4	non_advanced	ecm_excluded	-0.9845926625660834	ECM-excluded score
+GSE130970	440440.1.X_4	non_advanced	structural_ecm	-2.5687051712780833	Structural ECM-only
+GSE130970	440441.1.X_5	non_advanced	primary	-0.4824455593810336	Primary locked score
+GSE130970	440441.1.X_5	non_advanced	ecm_excluded	-0.5997503489820802	ECM-excluded score
+GSE130970	440441.1.X_5	non_advanced	structural_ecm	-0.05437651679283294	Structural ECM-only
+GSE130970	440451.1.X_7	non_advanced	primary	-0.7334242911343728	Primary locked score
+GSE130970	440451.1.X_7	non_advanced	ecm_excluded	-0.7404572690279599	ECM-excluded score
+GSE130970	440451.1.X_7	non_advanced	structural_ecm	-0.612873900461415	Structural ECM-only
+GSE130970	440474.1.X_2	non_advanced	primary	-0.3235236489080458	Primary locked score
+GSE130970	440474.1.X_2	non_advanced	ecm_excluded	-0.23454006953672157	ECM-excluded score
+GSE130970	440474.1.X_2	non_advanced	structural_ecm	-0.5553786071479991	Structural ECM-only
+GSE130970	440475.1.X_2	non_advanced	primary	-0.34272092512393637	Primary locked score
+GSE130970	440475.1.X_2	non_advanced	ecm_excluded	-0.3970728154643031	ECM-excluded score
+GSE130970	440475.1.X_2	non_advanced	structural_ecm	-0.1283273595718099	Structural ECM-only
+GSE130970	440476.1.X_2	non_advanced	primary	0.2261892292269466	Primary locked score
+GSE130970	440476.1.X_2	non_advanced	ecm_excluded	0.09359993337441684	ECM-excluded score
+GSE130970	440476.1.X_2	non_advanced	structural_ecm	0.6061254475990319	Structural ECM-only
+GSE130970	440477.1.X_2	non_advanced	primary	1.0568781475178175	Primary locked score
+GSE130970	440477.1.X_2	non_advanced	ecm_excluded	1.1946592052936975	ECM-excluded score
+GSE130970	440477.1.X_2	non_advanced	structural_ecm	0.48806183667441694	Structural ECM-only
+GSE130970	440478.1.X_2	non_advanced	primary	1.182849322478133	Primary locked score
+GSE130970	440478.1.X_2	non_advanced	ecm_excluded	0.9527015904202188	ECM-excluded score
+GSE130970	440478.1.X_2	non_advanced	structural_ecm	1.7359079612076274	Structural ECM-only
+GSE130970	440479.1.X_3	non_advanced	primary	-0.35075524802523905	Primary locked score
+GSE130970	440479.1.X_3	non_advanced	ecm_excluded	-0.2618583813152901	ECM-excluded score
+GSE130970	440479.1.X_3	non_advanced	structural_ecm	-0.5786741139215397	Structural ECM-only
+GSE130970	440480.1.X_3	non_advanced	primary	-0.756063060804873	Primary locked score
+GSE130970	440480.1.X_3	non_advanced	ecm_excluded	-0.6448752039598067	ECM-excluded score
+GSE130970	440480.1.X_3	non_advanced	structural_ecm	-0.9983897551094634	Structural ECM-only
+GSE130970	440481.1.X_3	non_advanced	primary	0.23950468026586735	Primary locked score
+GSE130970	440481.1.X_3	non_advanced	ecm_excluded	0.07297508837394874	ECM-excluded score
+GSE130970	440481.1.X_3	non_advanced	structural_ecm	0.7227021112827823	Structural ECM-only
+GSE130970	440482.1.X_3	non_advanced	primary	-0.4906425710638266	Primary locked score
+GSE130970	440482.1.X_3	non_advanced	ecm_excluded	-0.30358846366871417	ECM-excluded score
+GSE130970	440482.1.X_3	non_advanced	structural_ecm	-1.0035445055444607	Structural ECM-only
+GSE130970	440483.1.X_3	non_advanced	primary	0.05036020000059441	Primary locked score
+GSE130970	440483.1.X_3	non_advanced	ecm_excluded	0.04709795365287195	ECM-excluded score
+GSE130970	440483.1.X_3	non_advanced	structural_ecm	0.05367498270996218	Structural ECM-only
+GSE130970	440484.1.X_4	non_advanced	primary	-0.3944809866812427	Primary locked score
+GSE130970	440484.1.X_4	non_advanced	ecm_excluded	-0.29138649791533433	ECM-excluded score
+GSE130970	440484.1.X_4	non_advanced	structural_ecm	-0.6604562121690682	Structural ECM-only
+GSE130970	440485.1.X_4	non_advanced	primary	0.15743444726470254	Primary locked score
+GSE130970	440485.1.X_4	non_advanced	ecm_excluded	0.07774698574206958	ECM-excluded score
+GSE130970	440485.1.X_4	non_advanced	structural_ecm	0.38288510183729063	Structural ECM-only
+GSE130970	440487.1.X_4	non_advanced	primary	-0.2277124711317551	Primary locked score
+GSE130970	440487.1.X_4	non_advanced	ecm_excluded	-0.3539015560533929	ECM-excluded score
+GSE130970	440487.1.X_4	non_advanced	structural_ecm	0.19354715316725304	Structural ECM-only
+GSE130970	440488.1.X_4	non_advanced	primary	-1.365244945835499	Primary locked score
+GSE130970	440488.1.X_4	non_advanced	ecm_excluded	-1.3012192620957512	ECM-excluded score
+GSE130970	440488.1.X_4	non_advanced	structural_ecm	-1.3795438978509784	Structural ECM-only
+GSE130970	440490.1.X_5	non_advanced	primary	-0.14644316751638572	Primary locked score
+GSE130970	440490.1.X_5	non_advanced	ecm_excluded	-0.2863904174493795	ECM-excluded score
+GSE130970	440490.1.X_5	non_advanced	structural_ecm	0.30645601365687375	Structural ECM-only
+GSE130970	440492.1.X_5	non_advanced	primary	0.06597832302369243	Primary locked score
+GSE130970	440492.1.X_5	non_advanced	ecm_excluded	0.1442012611705917	ECM-excluded score
+GSE130970	440492.1.X_5	non_advanced	structural_ecm	-0.18502961435676485	Structural ECM-only
+GSE130970	440525.1.X_4	non_advanced	primary	-0.45266099784660463	Primary locked score
+GSE130970	440525.1.X_4	non_advanced	ecm_excluded	-0.33841690922462775	ECM-excluded score
+GSE130970	440525.1.X_4	non_advanced	structural_ecm	-0.7453113347143832	Structural ECM-only
+GSE130970	440526.1.X_4	non_advanced	primary	-1.2785318253010212	Primary locked score
+GSE130970	440526.1.X_4	non_advanced	ecm_excluded	-1.106612320099893	ECM-excluded score
+GSE130970	440526.1.X_4	non_advanced	structural_ecm	-1.6384709773934596	Structural ECM-only
+GSE130970	440527.1.X_4	non_advanced	primary	0.47522821012405814	Primary locked score
+GSE130970	440527.1.X_4	non_advanced	ecm_excluded	0.4532216484524158	ECM-excluded score
+GSE130970	440527.1.X_4	non_advanced	structural_ecm	0.4793384128613471	Structural ECM-only
+GSE130970	440528.1.X_5	non_advanced	primary	-0.22823808104118465	Primary locked score
+GSE130970	440528.1.X_5	non_advanced	ecm_excluded	-0.17096814822317166	ECM-excluded score
+GSE130970	440528.1.X_5	non_advanced	structural_ecm	-0.37476408229103136	Structural ECM-only
+GSE130970	440529.1.X_5	non_advanced	primary	0.46967176251006904	Primary locked score
+GSE130970	440529.1.X_5	non_advanced	ecm_excluded	0.5464177648365086	ECM-excluded score
+GSE130970	440529.1.X_5	non_advanced	structural_ecm	0.1688638289689083	Structural ECM-only
+GSE130970	440534.1.X_5	non_advanced	primary	-1.5869396969205365	Primary locked score
+GSE130970	440534.1.X_5	non_advanced	ecm_excluded	-1.4435595161401145	ECM-excluded score
+GSE130970	440534.1.X_5	non_advanced	structural_ecm	-1.8170037761132165	Structural ECM-only
+GSE130970	440538.1.X_6	non_advanced	primary	-1.4651984302789751	Primary locked score
+GSE130970	440538.1.X_6	non_advanced	ecm_excluded	-1.6127857288457963	ECM-excluded score
+GSE130970	440538.1.X_6	non_advanced	structural_ecm	-0.8110344027605796	Structural ECM-only
+GSE130970	440548.1.X_7	non_advanced	primary	-0.7368032119807165	Primary locked score
+GSE130970	440548.1.X_7	non_advanced	ecm_excluded	-0.79928931913022	ECM-excluded score
+GSE130970	440548.1.X_7	non_advanced	structural_ecm	-0.4441549535313605	Structural ECM-only
+GSE130970	449058.1.X_7	advanced	primary	-0.171947762645446	Primary locked score
+GSE130970	449058.1.X_7	advanced	ecm_excluded	-0.0863230157134968	ECM-excluded score
+GSE130970	449058.1.X_7	advanced	structural_ecm	-0.4138212298177293	Structural ECM-only
+GSE130970	449060.1.X_8	non_advanced	primary	0.7211385606078845	Primary locked score
+GSE130970	449060.1.X_8	non_advanced	ecm_excluded	0.504943891737744	ECM-excluded score
+GSE130970	449060.1.X_8	non_advanced	structural_ecm	1.2931942026943348	Structural ECM-only
+GSE130970	449063.1.X_8	non_advanced	primary	0.01191558948220884	Primary locked score
+GSE130970	449063.1.X_8	non_advanced	ecm_excluded	-0.07155895741347186	ECM-excluded score
+GSE130970	449063.1.X_8	non_advanced	structural_ecm	0.2686875537389229	Structural ECM-only
+GSE130970	449064.1.X_8	non_advanced	primary	-0.8153944079623184	Primary locked score
+GSE130970	449064.1.X_8	non_advanced	ecm_excluded	-0.8008265746582048	ECM-excluded score
+GSE130970	449064.1.X_8	non_advanced	structural_ecm	-0.7506643447814949	Structural ECM-only
+GSE130970	449065.1.X_5	non_advanced	primary	0.08134615561372681	Primary locked score
+GSE130970	449065.1.X_5	non_advanced	ecm_excluded	0.1530404804565058	ECM-excluded score
+GSE130970	449065.1.X_5	non_advanced	structural_ecm	-0.1515237365292901	Structural ECM-only
+GSE135251	GSM3998167	non_advanced	primary	-0.6622670712276991	Primary locked score
+GSE135251	GSM3998167	non_advanced	ecm_excluded	-0.5059507035161088	ECM-excluded score
+GSE135251	GSM3998167	non_advanced	structural_ecm	-1.2451261562838591	Structural ECM-only
+GSE135251	GSM3998168	advanced	primary	0.9064304833297746	Primary locked score
+GSE135251	GSM3998168	advanced	ecm_excluded	1.0195713987635595	ECM-excluded score
+GSE135251	GSM3998168	advanced	structural_ecm	0.1482464178979752	Structural ECM-only
+GSE135251	GSM3998169	non_advanced	primary	0.8055299290015142	Primary locked score
+GSE135251	GSM3998169	non_advanced	ecm_excluded	0.8767668691203365	ECM-excluded score
+GSE135251	GSM3998169	non_advanced	structural_ecm	0.271167338662923	Structural ECM-only
+GSE135251	GSM3998170	advanced	primary	0.6258741556175458	Primary locked score
+GSE135251	GSM3998170	advanced	ecm_excluded	0.8776144935190121	ECM-excluded score
+GSE135251	GSM3998170	advanced	structural_ecm	-0.7235282597670635	Structural ECM-only
+GSE135251	GSM3998171	non_advanced	primary	-0.21229196473861264	Primary locked score
+GSE135251	GSM3998171	non_advanced	ecm_excluded	0.00917082509121042	ECM-excluded score
+GSE135251	GSM3998171	non_advanced	structural_ecm	-1.214251923139522	Structural ECM-only
+GSE135251	GSM3998172	non_advanced	primary	0.18027936858960084	Primary locked score
+GSE135251	GSM3998172	non_advanced	ecm_excluded	0.18065734986288015	ECM-excluded score
+GSE135251	GSM3998172	non_advanced	structural_ecm	0.13472934070045714	Structural ECM-only
+GSE135251	GSM3998173	advanced	primary	-0.37671759716628167	Primary locked score
+GSE135251	GSM3998173	advanced	ecm_excluded	-0.28476109852887205	ECM-excluded score
+GSE135251	GSM3998173	advanced	structural_ecm	-0.7227218432297182	Structural ECM-only
+GSE135251	GSM3998174	non_advanced	primary	-0.4470394825694656	Primary locked score
+GSE135251	GSM3998174	non_advanced	ecm_excluded	-0.3899391774843045	ECM-excluded score
+GSE135251	GSM3998174	non_advanced	structural_ecm	-0.6101691350878642	Structural ECM-only
+GSE135251	GSM3998175	non_advanced	primary	-0.3861119548023426	Primary locked score
+GSE135251	GSM3998175	non_advanced	ecm_excluded	-0.5229274093295463	ECM-excluded score
+GSE135251	GSM3998175	non_advanced	structural_ecm	0.3584139278469071	Structural ECM-only
+GSE135251	GSM3998176	non_advanced	primary	-1.1990477136200008	Primary locked score
+GSE135251	GSM3998176	non_advanced	ecm_excluded	-1.189248985433611	ECM-excluded score
+GSE135251	GSM3998176	non_advanced	structural_ecm	-0.9546625996871568	Structural ECM-only
+GSE135251	GSM3998177	non_advanced	primary	-0.384231690486749	Primary locked score
+GSE135251	GSM3998177	non_advanced	ecm_excluded	-0.3554529733782587	ECM-excluded score
+GSE135251	GSM3998177	non_advanced	structural_ecm	-0.4278805968588179	Structural ECM-only
+GSE135251	GSM3998178	non_advanced	primary	-0.9390559063668334	Primary locked score
+GSE135251	GSM3998178	non_advanced	ecm_excluded	-1.0167776018368149	ECM-excluded score
+GSE135251	GSM3998178	non_advanced	structural_ecm	-0.3414404242121716	Structural ECM-only
+GSE135251	GSM3998179	advanced	primary	0.2701908225845039	Primary locked score
+GSE135251	GSM3998179	advanced	ecm_excluded	0.10698668069815258	ECM-excluded score
+GSE135251	GSM3998179	advanced	structural_ecm	0.980967494682682	Structural ECM-only
+GSE135251	GSM3998180	non_advanced	primary	-0.9572109029251684	Primary locked score
+GSE135251	GSM3998180	non_advanced	ecm_excluded	-1.0557279611091983	ECM-excluded score
+GSE135251	GSM3998180	non_advanced	structural_ecm	-0.2562674775528032	Structural ECM-only
+GSE135251	GSM3998181	non_advanced	primary	-0.9209078737504056	Primary locked score
+GSE135251	GSM3998181	non_advanced	ecm_excluded	-0.9366972776954496	ECM-excluded score
+GSE135251	GSM3998181	non_advanced	structural_ecm	-0.6223037839356433	Structural ECM-only
+GSE135251	GSM3998182	non_advanced	primary	-0.9752475124710436	Primary locked score
+GSE135251	GSM3998182	non_advanced	ecm_excluded	-0.9536174752156428	ECM-excluded score
+GSE135251	GSM3998182	non_advanced	structural_ecm	-0.8414570781579301	Structural ECM-only
+GSE135251	GSM3998183	non_advanced	primary	-1.3780697682902006	Primary locked score
+GSE135251	GSM3998183	non_advanced	ecm_excluded	-1.312194886307903	ECM-excluded score
+GSE135251	GSM3998183	non_advanced	structural_ecm	-1.3569876502508362	Structural ECM-only
+GSE135251	GSM3998184	non_advanced	primary	0.32502490118072924	Primary locked score
+GSE135251	GSM3998184	non_advanced	ecm_excluded	0.2835428066352345	ECM-excluded score
+GSE135251	GSM3998184	non_advanced	structural_ecm	0.4434716721437997	Structural ECM-only
+GSE135251	GSM3998185	advanced	primary	0.8396811001262187	Primary locked score
+GSE135251	GSM3998185	advanced	ecm_excluded	0.8420061961613982	ECM-excluded score
+GSE135251	GSM3998185	advanced	structural_ecm	0.624838591473025	Structural ECM-only
+GSE135251	GSM3998186	non_advanced	primary	-1.464924051786785	Primary locked score
+GSE135251	GSM3998186	non_advanced	ecm_excluded	-1.465824790414186	ECM-excluded score
+GSE135251	GSM3998186	non_advanced	structural_ecm	-1.105116885084548	Structural ECM-only
+GSE135251	GSM3998187	non_advanced	primary	0.7728342217359249	Primary locked score
+GSE135251	GSM3998187	non_advanced	ecm_excluded	0.66627347678303	ECM-excluded score
+GSE135251	GSM3998187	non_advanced	structural_ecm	1.0921761752622714	Structural ECM-only
+GSE135251	GSM3998188	advanced	primary	1.543735627187218	Primary locked score
+GSE135251	GSM3998188	advanced	ecm_excluded	1.4463704650290743	ECM-excluded score
+GSE135251	GSM3998188	advanced	structural_ecm	1.6322448505631768	Structural ECM-only
+GSE135251	GSM3998189	non_advanced	primary	0.4372557889959113	Primary locked score
+GSE135251	GSM3998189	non_advanced	ecm_excluded	0.43571156773046493	ECM-excluded score
+GSE135251	GSM3998189	non_advanced	structural_ecm	0.3384839191380648	Structural ECM-only
+GSE135251	GSM3998190	advanced	primary	-0.28026003777635533	Primary locked score
+GSE135251	GSM3998190	advanced	ecm_excluded	-0.31658334023908163	ECM-excluded score
+GSE135251	GSM3998190	advanced	structural_ecm	-0.03945663136758808	Structural ECM-only
+GSE135251	GSM3998191	advanced	primary	1.457299180205205	Primary locked score
+GSE135251	GSM3998191	advanced	ecm_excluded	1.4464915542288836	ECM-excluded score
+GSE135251	GSM3998191	advanced	structural_ecm	1.1550382643882364	Structural ECM-only
+GSE135251	GSM3998192	non_advanced	primary	-0.08276960916188543	Primary locked score
+GSE135251	GSM3998192	non_advanced	ecm_excluded	-0.09756526823511338	ECM-excluded score
+GSE135251	GSM3998192	non_advanced	structural_ecm	0.00769953567375984	Structural ECM-only
+GSE135251	GSM3998193	advanced	primary	0.387811801437715	Primary locked score
+GSE135251	GSM3998193	advanced	ecm_excluded	0.411509872994997	ECM-excluded score
+GSE135251	GSM3998193	advanced	structural_ecm	0.1809638888419693	Structural ECM-only
+GSE135251	GSM3998194	non_advanced	primary	-0.9724897914748456	Primary locked score
+GSE135251	GSM3998194	non_advanced	ecm_excluded	-0.8114022463448352	ECM-excluded score
+GSE135251	GSM3998194	non_advanced	structural_ecm	-1.502757039574084	Structural ECM-only
+GSE135251	GSM3998195	advanced	primary	0.18429756307143813	Primary locked score
+GSE135251	GSM3998195	advanced	ecm_excluded	0.17148686113056788	ECM-excluded score
+GSE135251	GSM3998195	advanced	structural_ecm	0.20050988967588	Structural ECM-only
+GSE135251	GSM3998196	non_advanced	primary	-0.11725504949824692	Primary locked score
+GSE135251	GSM3998196	non_advanced	ecm_excluded	-0.27559060979655975	ECM-excluded score
+GSE135251	GSM3998196	non_advanced	structural_ecm	0.6643914025907643	Structural ECM-only
+GSE135251	GSM3998197	non_advanced	primary	-0.06780409799814334	Primary locked score
+GSE135251	GSM3998197	non_advanced	ecm_excluded	0.15196728212110366	ECM-excluded score
+GSE135251	GSM3998197	non_advanced	structural_ecm	-1.0967839141985805	Structural ECM-only
+GSE135251	GSM3998198	non_advanced	primary	-0.8034540295030231	Primary locked score
+GSE135251	GSM3998198	non_advanced	ecm_excluded	-0.6503455379835057	ECM-excluded score
+GSE135251	GSM3998198	non_advanced	structural_ecm	-1.336788836029538	Structural ECM-only
+GSE135251	GSM3998199	non_advanced	primary	0.5438319559804979	Primary locked score
+GSE135251	GSM3998199	non_advanced	ecm_excluded	0.4200587705016205	ECM-excluded score
+GSE135251	GSM3998199	non_advanced	structural_ecm	1.0006286978790684	Structural ECM-only
+GSE135251	GSM3998200	advanced	primary	0.05592425790979799	Primary locked score
+GSE135251	GSM3998200	advanced	ecm_excluded	0.16871795476156337	ECM-excluded score
+GSE135251	GSM3998200	advanced	structural_ecm	-0.494198756859145	Structural ECM-only
+GSE135251	GSM3998201	advanced	primary	1.5546272323338377	Primary locked score
+GSE135251	GSM3998201	advanced	ecm_excluded	1.6188014855592672	ECM-excluded score
+GSE135251	GSM3998201	advanced	structural_ecm	0.8720628613526594	Structural ECM-only
+GSE135251	GSM3998202	non_advanced	primary	-0.6779359405243097	Primary locked score
+GSE135251	GSM3998202	non_advanced	ecm_excluded	-0.7290373726337127	ECM-excluded score
+GSE135251	GSM3998202	non_advanced	structural_ecm	-0.2703221657752255	Structural ECM-only
+GSE135251	GSM3998203	advanced	primary	-1.1215111843984706	Primary locked score
+GSE135251	GSM3998203	advanced	ecm_excluded	-1.0808337885365862	ECM-excluded score
+GSE135251	GSM3998203	advanced	structural_ecm	-1.0428308077709767	Structural ECM-only
+GSE135251	GSM3998204	non_advanced	primary	-0.2023404917497899	Primary locked score
+GSE135251	GSM3998204	non_advanced	ecm_excluded	-0.3401715163621724	ECM-excluded score
+GSE135251	GSM3998204	non_advanced	structural_ecm	0.5024168809454846	Structural ECM-only
+GSE135251	GSM3998205	non_advanced	primary	-0.43699747833582137	Primary locked score
+GSE135251	GSM3998205	non_advanced	ecm_excluded	-0.20516513118675403	ECM-excluded score
+GSE135251	GSM3998205	non_advanced	structural_ecm	-1.4337508244492507	Structural ECM-only
+GSE135251	GSM3998206	non_advanced	primary	-1.5215269716280515	Primary locked score
+GSE135251	GSM3998206	non_advanced	ecm_excluded	-1.4119885321784185	ECM-excluded score
+GSE135251	GSM3998206	non_advanced	structural_ecm	-1.6733333376177872	Structural ECM-only
+GSE135251	GSM3998207	advanced	primary	0.5412204777643885	Primary locked score
+GSE135251	GSM3998207	advanced	ecm_excluded	0.6062132336770083	ECM-excluded score
+GSE135251	GSM3998207	advanced	structural_ecm	0.10070624298169568	Structural ECM-only
+GSE135251	GSM3998208	advanced	primary	-1.4471451080915687	Primary locked score
+GSE135251	GSM3998208	advanced	ecm_excluded	-1.2764654997504796	ECM-excluded score
+GSE135251	GSM3998208	advanced	structural_ecm	-1.9078469468372563	Structural ECM-only
+GSE135251	GSM3998209	advanced	primary	0.8795984151520708	Primary locked score
+GSE135251	GSM3998209	advanced	ecm_excluded	0.937335686865567	ECM-excluded score
+GSE135251	GSM3998209	advanced	structural_ecm	0.3914770058783433	Structural ECM-only
+GSE135251	GSM3998210	advanced	primary	0.18792577680634223	Primary locked score
+GSE135251	GSM3998210	advanced	ecm_excluded	0.05178615081119773	ECM-excluded score
+GSE135251	GSM3998210	advanced	structural_ecm	0.7899235769052322	Structural ECM-only
+GSE135251	GSM3998211	non_advanced	primary	-0.7474430447240727	Primary locked score
+GSE135251	GSM3998211	non_advanced	ecm_excluded	-0.7456750286876745	ECM-excluded score
+GSE135251	GSM3998211	non_advanced	structural_ecm	-0.5744564027194186	Structural ECM-only
+GSE135251	GSM3998212	non_advanced	primary	-1.618806276163315	Primary locked score
+GSE135251	GSM3998212	non_advanced	ecm_excluded	-1.579285370636652	ECM-excluded score
+GSE135251	GSM3998212	non_advanced	structural_ecm	-1.4139360181028842	Structural ECM-only
+GSE135251	GSM3998213	non_advanced	primary	0.07540936737287206	Primary locked score
+GSE135251	GSM3998213	non_advanced	ecm_excluded	0.0193988261685348	ECM-excluded score
+GSE135251	GSM3998213	non_advanced	structural_ecm	0.32354601280330353	Structural ECM-only
+GSE135251	GSM3998214	advanced	primary	1.5157266528267892	Primary locked score
+GSE135251	GSM3998214	advanced	ecm_excluded	1.4402917871985828	ECM-excluded score
+GSE135251	GSM3998214	advanced	structural_ecm	1.506712676248709	Structural ECM-only
+GSE135251	GSM3998215	non_advanced	primary	0.32182845184422004	Primary locked score
+GSE135251	GSM3998215	non_advanced	ecm_excluded	0.4220688512184764	ECM-excluded score
+GSE135251	GSM3998215	non_advanced	structural_ecm	-0.2331118026945503	Structural ECM-only
+GSE135251	GSM3998216	non_advanced	primary	2.1733316873507187	Primary locked score
+GSE135251	GSM3998216	non_advanced	ecm_excluded	2.596976186855375	ECM-excluded score
+GSE135251	GSM3998216	non_advanced	structural_ecm	-0.3693577967195541	Structural ECM-only
+GSE135251	GSM3998217	non_advanced	primary	-0.25636675308450163	Primary locked score
+GSE135251	GSM3998217	non_advanced	ecm_excluded	-0.15653570854284035	ECM-excluded score
+GSE135251	GSM3998217	non_advanced	structural_ecm	-0.6690375423145628	Structural ECM-only
+GSE135251	GSM3998218	non_advanced	primary	-0.17711709415320617	Primary locked score
+GSE135251	GSM3998218	non_advanced	ecm_excluded	-0.24524565632403525	ECM-excluded score
+GSE135251	GSM3998218	non_advanced	structural_ecm	0.1899496731153241	Structural ECM-only
+GSE135251	GSM3998219	non_advanced	primary	-0.7311752764232387	Primary locked score
+GSE135251	GSM3998219	non_advanced	ecm_excluded	-0.7464257817265024	ECM-excluded score
+GSE135251	GSM3998219	non_advanced	structural_ecm	-0.4811808898990343	Structural ECM-only
+GSE135251	GSM3998220	non_advanced	primary	-0.8239906941944373	Primary locked score
+GSE135251	GSM3998220	non_advanced	ecm_excluded	-0.5581401486344492	ECM-excluded score
+GSE135251	GSM3998220	non_advanced	structural_ecm	-1.8886465530907803	Structural ECM-only
+GSE135251	GSM3998221	non_advanced	primary	0.33816585956415385	Primary locked score
+GSE135251	GSM3998221	non_advanced	ecm_excluded	0.6251919475939811	ECM-excluded score
+GSE135251	GSM3998221	non_advanced	structural_ecm	-1.1092641701337869	Structural ECM-only
+GSE135251	GSM3998222	non_advanced	primary	-1.005972424176227	Primary locked score
+GSE135251	GSM3998222	non_advanced	ecm_excluded	-0.7775053430112047	ECM-excluded score
+GSE135251	GSM3998222	non_advanced	structural_ecm	-1.848632932523123	Structural ECM-only
+GSE135251	GSM3998223	non_advanced	primary	1.4264349896618405	Primary locked score
+GSE135251	GSM3998223	non_advanced	ecm_excluded	1.9450965159820417	ECM-excluded score
+GSE135251	GSM3998223	non_advanced	structural_ecm	-1.386978665282827	Structural ECM-only
+GSE135251	GSM3998224	non_advanced	primary	0.13708900086623244	Primary locked score
+GSE135251	GSM3998224	non_advanced	ecm_excluded	0.2859968810847253	ECM-excluded score
+GSE135251	GSM3998224	non_advanced	structural_ecm	-0.6045242193264031	Structural ECM-only
+GSE135251	GSM3998225	advanced	primary	1.4583368075497398	Primary locked score
+GSE135251	GSM3998225	advanced	ecm_excluded	1.2301212993941104	ECM-excluded score
+GSE135251	GSM3998225	advanced	structural_ecm	2.190016288898336	Structural ECM-only
+GSE135251	GSM3998226	advanced	primary	1.8696272167309664	Primary locked score
+GSE135251	GSM3998226	advanced	ecm_excluded	1.8394663706806629	ECM-excluded score
+GSE135251	GSM3998226	advanced	structural_ecm	1.5593601559015529	Structural ECM-only
+GSE135251	GSM3998227	advanced	primary	1.3973744600730624	Primary locked score
+GSE135251	GSM3998227	advanced	ecm_excluded	1.2887607625556914	ECM-excluded score
+GSE135251	GSM3998227	advanced	structural_ecm	1.5749124748361971	Structural ECM-only
+GSE135251	GSM3998228	non_advanced	primary	0.42795196260468094	Primary locked score
+GSE135251	GSM3998228	non_advanced	ecm_excluded	0.4073524771348344	ECM-excluded score
+GSE135251	GSM3998228	non_advanced	structural_ecm	0.4220824335102247	Structural ECM-only
+GSE135251	GSM3998229	advanced	primary	0.5779900910471005	Primary locked score
+GSE135251	GSM3998229	advanced	ecm_excluded	0.4902582159384484	ECM-excluded score
+GSE135251	GSM3998229	advanced	structural_ecm	0.8550513124932824	Structural ECM-only
+GSE135251	GSM3998230	advanced	primary	0.8278563267637096	Primary locked score
+GSE135251	GSM3998230	advanced	ecm_excluded	0.9026234495865436	ECM-excluded score
+GSE135251	GSM3998230	advanced	structural_ecm	0.2712825410253987	Structural ECM-only
+GSE135251	GSM3998231	non_advanced	primary	-0.8678704921668597	Primary locked score
+GSE135251	GSM3998231	non_advanced	ecm_excluded	-0.89928878756731645	ECM-excluded score
+GSE135251	GSM3998231	non_advanced	structural_ecm	-0.5077926356316493	Structural ECM-only
+GSE135251	GSM3998232	non_advanced	primary	-2.8914805880273233	Primary locked score
+GSE135251	GSM3998232	non_advanced	ecm_excluded	-2.9781723877544626	ECM-excluded score
+GSE135251	GSM3998232	non_advanced	structural_ecm	-1.7773610709362042	Structural ECM-only
+GSE135251	GSM3998233	advanced	primary	1.2250377896360856	Primary locked score
+GSE135251	GSM3998233	advanced	ecm_excluded	0.9681730697506502	ECM-excluded score
+GSE135251	GSM3998233	advanced	structural_ecm	2.1496186604557472	Structural ECM-only
+GSE135251	GSM3998234	non_advanced	primary	0.6961751491949988	Primary locked score
+GSE135251	GSM3998234	non_advanced	ecm_excluded	0.876096842214724	ECM-excluded score
+GSE135251	GSM3998234	non_advanced	structural_ecm	-0.3286529619770199	Structural ECM-only
+GSE135251	GSM3998235	non_advanced	primary	0.21710469340758895	Primary locked score
+GSE135251	GSM3998235	non_advanced	ecm_excluded	0.15714182725967513	ECM-excluded score
+GSE135251	GSM3998235	non_advanced	structural_ecm	0.4496541989301725	Structural ECM-only
+GSE135251	GSM3998236	non_advanced	primary	0.9611809946230856	Primary locked score
+GSE135251	GSM3998236	non_advanced	ecm_excluded	0.9326454985262428	ECM-excluded score
+GSE135251	GSM3998236	non_advanced	structural_ecm	0.8636530888917057	Structural ECM-only
+GSE135251	GSM3998237	non_advanced	primary	0.7695333132707706	Primary locked score
+GSE135251	GSM3998237	non_advanced	ecm_excluded	0.8423129554675823	ECM-excluded score
+GSE135251	GSM3998237	non_advanced	structural_ecm	0.2365682291317678	Structural ECM-only
+GSE135251	GSM3998238	non_advanced	primary	1.3471992586143595	Primary locked score
+GSE135251	GSM3998238	non_advanced	ecm_excluded	1.422830724585907	ECM-excluded score
+GSE135251	GSM3998238	non_advanced	structural_ecm	0.6604745222664844	Structural ECM-only
+GSE135251	GSM3998239	advanced	primary	1.4803498279259908	Primary locked score
+GSE135251	GSM3998239	advanced	ecm_excluded	1.5895786253383288	ECM-excluded score
+GSE135251	GSM3998239	advanced	structural_ecm	0.60149091267731	Structural ECM-only
+GSE135251	GSM3998240	non_advanced	primary	0.7292886929751685	Primary locked score
+GSE135251	GSM3998240	non_advanced	ecm_excluded	0.7911568048542922	ECM-excluded score
+GSE135251	GSM3998240	non_advanced	structural_ecm	0.25799586855283224	Structural ECM-only
+GSE135251	GSM3998241	advanced	primary	0.9063538799687676	Primary locked score
+GSE135251	GSM3998241	advanced	ecm_excluded	0.8699535834776674	ECM-excluded score
+GSE135251	GSM3998241	advanced	structural_ecm	0.8595442046299562	Structural ECM-only
+GSE135251	GSM3998242	advanced	primary	1.7392482962993565	Primary locked score
+GSE135251	GSM3998242	advanced	ecm_excluded	1.5438553434898703	ECM-excluded score
+GSE135251	GSM3998242	advanced	structural_ecm	2.2466190496629492	Structural ECM-only
+GSE135251	GSM3998243	non_advanced	primary	0.9320856453247532	Primary locked score
+GSE135251	GSM3998243	non_advanced	ecm_excluded	0.8282908261295239	ECM-excluded score
+GSE135251	GSM3998243	non_advanced	structural_ecm	1.1996215786675613	Structural ECM-only
+GSE135251	GSM3998244	non_advanced	primary	-0.10024910335498992	Primary locked score
+GSE135251	GSM3998244	non_advanced	ecm_excluded	-0.02846369820990066	ECM-excluded score
+GSE135251	GSM3998244	non_advanced	structural_ecm	-0.417397181873241	Structural ECM-only
+GSE135251	GSM3998245	non_advanced	primary	0.2467919777682285	Primary locked score
+GSE135251	GSM3998245	non_advanced	ecm_excluded	0.16214684751851324	ECM-excluded score
+GSE135251	GSM3998245	non_advanced	structural_ecm	0.5895482677670003	Structural ECM-only
+GSE135251	GSM3998246	non_advanced	primary	-0.520564781251075	Primary locked score
+GSE135251	GSM3998246	non_advanced	ecm_excluded	-0.524081793034406	ECM-excluded score
+GSE135251	GSM3998246	non_advanced	structural_ecm	-0.3774987636680594	Structural ECM-only
+GSE135251	GSM3998247	non_advanced	primary	-0.5255648915421708	Primary locked score
+GSE135251	GSM3998247	non_advanced	ecm_excluded	-0.4706168750113965	ECM-excluded score
+GSE135251	GSM3998247	non_advanced	structural_ecm	-0.6593989446538353	Structural ECM-only
+GSE135251	GSM3998248	non_advanced	primary	1.377680432352698	Primary locked score
+GSE135251	GSM3998248	non_advanced	ecm_excluded	1.2634127567286844	ECM-excluded score
+GSE135251	GSM3998248	non_advanced	structural_ecm	1.5868935205339962	Structural ECM-only
+GSE135251	GSM3998249	non_advanced	primary	-1.1335796957278153	Primary locked score
+GSE135251	GSM3998249	non_advanced	ecm_excluded	-1.097269629257532	ECM-excluded score
+GSE135251	GSM3998249	non_advanced	structural_ecm	-1.0311953691606124	Structural ECM-only
+GSE135251	GSM3998250	advanced	primary	0.06916967542185862	Primary locked score
+GSE135251	GSM3998250	advanced	ecm_excluded	0.19009423483478244	ECM-excluded score
+GSE135251	GSM3998250	advanced	structural_ecm	-0.5228457443288863	Structural ECM-only
+GSE135251	GSM3998251	advanced	primary	0.4284951500736282	Primary locked score
+GSE135251	GSM3998251	advanced	ecm_excluded	0.3571085318267849	ECM-excluded score
+GSE135251	GSM3998251	advanced	structural_ecm	0.6640841962908265	Structural ECM-only
+GSE135251	GSM3998252	non_advanced	primary	-0.29175750586911464	Primary locked score
+GSE135251	GSM3998252	non_advanced	ecm_excluded	-0.3950168512630194	ECM-excluded score
+GSE135251	GSM3998252	non_advanced	structural_ecm	0.27024571976308714	Structural ECM-only
+GSE135251	GSM3998253	advanced	primary	1.349741097411369	Primary locked score
+GSE135251	GSM3998253	advanced	ecm_excluded	1.489244114375322	ECM-excluded score
+GSE135251	GSM3998253	advanced	structural_ecm	0.35856753099687977	Structural ECM-only
+GSE135251	GSM3998254	non_advanced	primary	0.01471861363066832	Primary locked score
+GSE135251	GSM3998254	non_advanced	ecm_excluded	-0.09352896157476034	ECM-excluded score
+GSE135251	GSM3998254	non_advanced	structural_ecm	0.5260717660411449	Structural ECM-only
+GSE135251	GSM3998255	non_advanced	primary	-1.0041966189892693	Primary locked score
+GSE135251	GSM3998255	non_advanced	ecm_excluded	-1.1262099480122485	ECM-excluded score
+GSE135251	GSM3998255	non_advanced	structural_ecm	-0.18008031516678236	Structural ECM-only
+GSE135251	GSM3998256	non_advanced	primary	-0.4733562190458601	Primary locked score
+GSE135251	GSM3998256	non_advanced	ecm_excluded	-0.5455387992408314	ECM-excluded score
+GSE135251	GSM3998256	non_advanced	structural_ecm	-0.01511053209705093	Structural ECM-only
+GSE135251	GSM3998257	non_advanced	primary	0.8993760101753403	Primary locked score
+GSE135251	GSM3998257	non_advanced	ecm_excluded	0.7189714965405792	ECM-excluded score
+GSE135251	GSM3998257	non_advanced	structural_ecm	1.5392765440427378	Structural ECM-only
+GSE135251	GSM3998258	advanced	primary	1.7334751884562924	Primary locked score
+GSE135251	GSM3998258	advanced	ecm_excluded	1.6525288640131643	ECM-excluded score
+GSE135251	GSM3998258	advanced	structural_ecm	1.6978333956011449	Structural ECM-only
+GSE135251	GSM3998259	non_advanced	primary	-3.356790294601354	Primary locked score
+GSE135251	GSM3998259	non_advanced	ecm_excluded	-3.5183513081092372	ECM-excluded score
+GSE135251	GSM3998259	non_advanced	structural_ecm	-1.7735977937618894	Structural ECM-only
+GSE135251	GSM3998260	non_advanced	primary	-1.8735611991004584	Primary locked score
+GSE135251	GSM3998260	non_advanced	ecm_excluded	-1.9067267121509657	ECM-excluded score
+GSE135251	GSM3998260	non_advanced	structural_ecm	-1.2611008838809246	Structural ECM-only
+GSE135251	GSM3998261	advanced	primary	-0.1669567029070933	Primary locked score
+GSE135251	GSM3998261	advanced	ecm_excluded	-0.1240515125403388	ECM-excluded score
+GSE135251	GSM3998261	advanced	structural_ecm	-0.33053460056417355	Structural ECM-only
+GSE135251	GSM3998262	advanced	primary	0.036926624380395	Primary locked score
+GSE135251	GSM3998262	advanced	ecm_excluded	0.15716604509963705	ECM-excluded score
+GSE135251	GSM3998262	advanced	structural_ecm	-0.5440045782375098	Structural ECM-only
+GSE135251	GSM3998263	non_advanced	primary	-0.0874354502413242	Primary locked score
+GSE135251	GSM3998263	non_advanced	ecm_excluded	-0.00580387261869179	ECM-excluded score
+GSE135251	GSM3998263	non_advanced	structural_ecm	-0.4545307433789224	Structural ECM-only
+GSE135251	GSM3998264	non_advanced	primary	0.6828949119733837	Primary locked score
+GSE135251	GSM3998264	non_advanced	ecm_excluded	0.7538774765392889	ECM-excluded score
+GSE135251	GSM3998264	non_advanced	structural_ecm	0.1795046589172366	Structural ECM-only
+GSE135251	GSM3998265	advanced	primary	0.34426627267695864	Primary locked score
+GSE135251	GSM3998265	advanced	ecm_excluded	0.3127172311762491	ECM-excluded score
+GSE135251	GSM3998265	advanced	structural_ecm	0.4107926019872951	Structural ECM-only
+GSE135251	GSM3998266	non_advanced	primary	-0.36934278268401394	Primary locked score
+GSE135251	GSM3998266	non_advanced	ecm_excluded	-0.36826421071821297	ECM-excluded score
+GSE135251	GSM3998266	non_advanced	structural_ecm	-0.28483766344756567	Structural ECM-only
+GSE135251	GSM3998267	non_advanced	primary	-0.6796490702340748	Primary locked score
+GSE135251	GSM3998267	non_advanced	ecm_excluded	-0.7430272115184885	ECM-excluded score
+GSE135251	GSM3998267	non_advanced	structural_ecm	-0.2132201947732049	Structural ECM-only
+GSE135251	GSM3998268	advanced	primary	0.2799403412579436	Primary locked score
+GSE135251	GSM3998268	advanced	ecm_excluded	0.4572331548434554	ECM-excluded score
+GSE135251	GSM3998268	advanced	structural_ecm	-0.6313663697839771	Structural ECM-only
+GSE135251	GSM3998269	non_advanced	primary	0.03629290566661714	Primary locked score
+GSE135251	GSM3998269	non_advanced	ecm_excluded	0.13010664524864657	ECM-excluded score
+GSE135251	GSM3998269	non_advanced	structural_ecm	-0.41877961022298726	Structural ECM-only
+GSE135251	GSM3998270	non_advanced	primary	-1.0004500182419056	Primary locked score
+GSE135251	GSM3998270	non_advanced	ecm_excluded	-1.169019016451931	ECM-excluded score
+GSE135251	GSM3998270	non_advanced	structural_ecm	0.04421868457955816	Structural ECM-only
+GSE135251	GSM3998271	non_advanced	primary	-0.6185195881515689	Primary locked score
+GSE135251	GSM3998271	non_advanced	ecm_excluded	-0.640585748478778	ECM-excluded score
+GSE135251	GSM3998271	non_advanced	structural_ecm	-0.3634440754456371	Structural ECM-only
+GSE135251	GSM3998272	non_advanced	primary	-0.1870267834905672	Primary locked score
+GSE135251	GSM3998272	non_advanced	ecm_excluded	-0.02768065471779915	ECM-excluded score
+GSE135251	GSM3998272	non_advanced	structural_ecm	-0.8996342712097518	Structural ECM-only
+GSE135251	GSM3998273	non_advanced	primary	-0.14279182448076597	Primary locked score
+GSE135251	GSM3998273	non_advanced	ecm_excluded	-0.01779977601325304	ECM-excluded score
+GSE135251	GSM3998273	non_advanced	structural_ecm	-0.7027150329458896	Structural ECM-only
+GSE135251	GSM3998274	advanced	primary	0.4497978483751034	Primary locked score
+GSE135251	GSM3998274	advanced	ecm_excluded	0.5905442912215316	ECM-excluded score
+GSE135251	GSM3998274	advanced	structural_ecm	-0.3288833667019788	Structural ECM-only
+GSE135251	GSM3998275	advanced	primary	-0.6312705657880513	Primary locked score
+GSE135251	GSM3998275	advanced	ecm_excluded	-0.7697152711567298	ECM-excluded score
+GSE135251	GSM3998275	advanced	structural_ecm	0.18050307939205135	Structural ECM-only
+GSE135251	GSM3998276	non_advanced	primary	0.2291801686788408	Primary locked score
+GSE135251	GSM3998276	non_advanced	ecm_excluded	0.14931139233859703	ECM-excluded score
+GSE135251	GSM3998276	non_advanced	structural_ecm	0.55348992831112	Structural ECM-only
+GSE135251	GSM3998277	non_advanced	primary	-0.11065323256793835	Primary locked score
+GSE135251	GSM3998277	non_advanced	ecm_excluded	-2.579872673711825e-4	ECM-excluded score
+GSE135251	GSM3998277	non_advanced	structural_ecm	-0.6089403098880906	Structural ECM-only
+GSE135251	GSM3998278	non_advanced	primary	-1.101218257673883	Primary locked score
+GSE135251	GSM3998278	non_advanced	ecm_excluded	-1.1848413385605088	ECM-excluded score
+GSE135251	GSM3998278	non_advanced	structural_ecm	-0.4361751669572959	Structural ECM-only
+GSE135251	GSM3998279	non_advanced	primary	0.08011002816184705	Primary locked score
+GSE135251	GSM3998279	non_advanced	ecm_excluded	0.05354598051510496	ECM-excluded score
+GSE135251	GSM3998279	non_advanced	structural_ecm	0.1870312132658588	Structural ECM-only
+GSE135251	GSM3998280	advanced	primary	-1.0386193838484474	Primary locked score
+GSE135251	GSM3998280	advanced	ecm_excluded	-0.9274864258965252	ECM-excluded score
+GSE135251	GSM3998280	advanced	structural_ecm	-1.315207593458501	Structural ECM-only
+GSE135251	GSM3998281	non_advanced	primary	0.6993855264153225	Primary locked score
+GSE135251	GSM3998281	non_advanced	ecm_excluded	0.6870362382438807	ECM-excluded score
+GSE135251	GSM3998281	non_advanced	structural_ecm	0.588396244142213	Structural ECM-only
+GSE135251	GSM3998282	advanced	primary	0.6359718713864662	Primary locked score
+GSE135251	GSM3998282	advanced	ecm_excluded	0.48782835932891055	ECM-excluded score
+GSE135251	GSM3998282	advanced	structural_ecm	1.1863349061949948	Structural ECM-only
+GSE135251	GSM3998283	non_advanced	primary	-0.824568701372939	Primary locked score
+GSE135251	GSM3998283	non_advanced	ecm_excluded	-0.8696865145202992	ECM-excluded score
+GSE135251	GSM3998283	non_advanced	structural_ecm	-0.4098322267371219	Structural ECM-only
+GSE135251	GSM3998284	non_advanced	primary	-0.530474470588436	Primary locked score
+GSE135251	GSM3998284	non_advanced	ecm_excluded	-0.47453209247194	ECM-excluded score
+GSE135251	GSM3998284	non_advanced	structural_ecm	-0.667847117902286	Structural ECM-only
+GSE135251	GSM3998285	advanced	primary	0.5554826307952622	Primary locked score
+GSE135251	GSM3998285	advanced	ecm_excluded	0.452542966504122	ECM-excluded score
+GSE135251	GSM3998285	advanced	structural_ecm	0.9103484464831356	Structural ECM-only
+GSE135251	GSM3998286	non_advanced	primary	-0.924083431261184	Primary locked score
+GSE135251	GSM3998286	non_advanced	ecm_excluded	-0.9003220820723665	ECM-excluded score
+GSE135251	GSM3998286	non_advanced	structural_ecm	-0.8128484914756782	Structural ECM-only
+GSE135251	GSM3998287	non_advanced	primary	-0.8671949898016293	Primary locked score
+GSE135251	GSM3998287	non_advanced	ecm_excluded	-0.7574126084559755	ECM-excluded score
+GSE135251	GSM3998287	non_advanced	structural_ecm	-1.1789615994334972	Structural ECM-only
+GSE135251	GSM3998288	non_advanced	primary	-2.0978767319507248	Primary locked score
+GSE135251	GSM3998288	non_advanced	ecm_excluded	-2.174826273144803	ECM-excluded score
+GSE135251	GSM3998288	non_advanced	structural_ecm	-1.2227000963879724	Structural ECM-only
+GSE135251	GSM3998289	non_advanced	primary	0.10247124563358775	Primary locked score
+GSE135251	GSM3998289	non_advanced	ecm_excluded	0.18842320387739317	ECM-excluded score
+GSE135251	GSM3998289	non_advanced	structural_ecm	-0.3312642155265399	Structural ECM-only
+GSE135251	GSM3998290	non_advanced	primary	0.6884033900238815	Primary locked score
+GSE135251	GSM3998290	non_advanced	ecm_excluded	0.6711816256820204	ECM-excluded score
+GSE135251	GSM3998290	non_advanced	structural_ecm	0.6032573489019879	Structural ECM-only
+GSE135251	GSM3998291	non_advanced	primary	-0.1380493800403202	Primary locked score
+GSE135251	GSM3998291	non_advanced	ecm_excluded	-0.21544964055732285	ECM-excluded score
+GSE135251	GSM3998291	non_advanced	structural_ecm	0.26364078431430077	Structural ECM-only
+GSE135251	GSM3998292	non_advanced	primary	-0.6165348647073302	Primary locked score
+GSE135251	GSM3998292	non_advanced	ecm_excluded	-0.6831042028389177	ECM-excluded score
+GSE135251	GSM3998292	non_advanced	structural_ecm	-0.15024290328475673	Structural ECM-only
+GSE135251	GSM3998293	non_advanced	primary	-0.825104924899979	Primary locked score
+GSE135251	GSM3998293	non_advanced	ecm_excluded	-0.8747964787523056	ECM-excluded score
+GSE135251	GSM3998293	non_advanced	structural_ecm	-0.3884813888910437	Structural ECM-only
+GSE135251	GSM3998294	non_advanced	primary	-0.3489523607726884	Primary locked score
+GSE135251	GSM3998294	non_advanced	ecm_excluded	-0.3872671424751476	ECM-excluded score
+GSE135251	GSM3998294	non_advanced	structural_ecm	-0.0820047039097791	Structural ECM-only
+GSE135251	GSM3998295	non_advanced	primary	-0.21055794320312576	Primary locked score
+GSE135251	GSM3998295	non_advanced	ecm_excluded	-0.10208593169470448	ECM-excluded score
+GSE135251	GSM3998295	non_advanced	structural_ecm	-0.6754504738258871	Structural ECM-only
+GSE135251	GSM3998296	non_advanced	primary	-1.3021976211850574	Primary locked score
+GSE135251	GSM3998296	non_advanced	ecm_excluded	-1.3065763474366967	ECM-excluded score
+GSE135251	GSM3998296	non_advanced	structural_ecm	-0.9653380186101956	Structural ECM-only
+GSE135251	GSM3998297	non_advanced	primary	-1.5453018693074363	Primary locked score
+GSE135251	GSM3998297	non_advanced	ecm_excluded	-1.5058568798715437	ECM-excluded score
+GSE135251	GSM3998297	non_advanced	structural_ecm	-1.357909269150665	Structural ECM-only
+GSE135251	GSM3998298	advanced	primary	-0.6589383069949067	Primary locked score
+GSE135251	GSM3998298	advanced	ecm_excluded	-0.6321014318787196	ECM-excluded score
+GSE135251	GSM3998298	advanced	structural_ecm	-0.6266814737098338	Structural ECM-only
+GSE135251	GSM3998299	non_advanced	primary	-0.9559852491490834	Primary locked score
+GSE135251	GSM3998299	non_advanced	ecm_excluded	-1.0087292063560709	ECM-excluded score
+GSE135251	GSM3998299	non_advanced	structural_ecm	-0.4730783237380184	Structural ECM-only
+GSE135251	GSM3998300	non_advanced	primary	-0.2255443461925896	Primary locked score
+GSE135251	GSM3998300	non_advanced	ecm_excluded	-0.09677415212968224	ECM-excluded score
+GSE135251	GSM3998300	non_advanced	structural_ecm	-0.7833566866810873	Structural ECM-only
+GSE135251	GSM3998301	advanced	primary	1.762215376717228	Primary locked score
+GSE135251	GSM3998301	advanced	ecm_excluded	1.6972834322631378	ECM-excluded score
+GSE135251	GSM3998301	advanced	structural_ecm	1.6434194797236232	Structural ECM-only
+GSE135251	GSM3998302	non_advanced	primary	0.14594713497525338	Primary locked score
+GSE135251	GSM3998302	non_advanced	ecm_excluded	0.27989398541427196	ECM-excluded score
+GSE135251	GSM3998302	non_advanced	structural_ecm	-0.5266474222906906	Structural ECM-only
+GSE135251	GSM3998303	non_advanced	primary	-1.3643647306120978	Primary locked score
+GSE135251	GSM3998303	non_advanced	ecm_excluded	-1.372949374159508	ECM-excluded score
+GSE135251	GSM3998303	non_advanced	structural_ecm	-0.9924105737927288	Structural ECM-only
+GSE135251	GSM3998304	non_advanced	primary	-1.4063573003270105	Primary locked score
+GSE135251	GSM3998304	non_advanced	ecm_excluded	-1.4206585188848515	ECM-excluded score
+GSE135251	GSM3998304	non_advanced	structural_ecm	-0.9970186682918856	Structural ECM-only
+GSE135251	GSM3998305	non_advanced	primary	-1.3132633248794217	Primary locked score
+GSE135251	GSM3998305	non_advanced	ecm_excluded	-1.194609200678557	ECM-excluded score
+GSE135251	GSM3998305	non_advanced	structural_ecm	-1.5589757924637733	Structural ECM-only
+GSE135251	GSM3998306	non_advanced	primary	-1.711245641071404	Primary locked score
+GSE135251	GSM3998306	non_advanced	ecm_excluded	-1.764091707387485	ECM-excluded score
+GSE135251	GSM3998306	non_advanced	structural_ecm	-1.0445588432081576	Structural ECM-only
+GSE135251	GSM3998307	non_advanced	primary	-1.2726008680692391	Primary locked score
+GSE135251	GSM3998307	non_advanced	ecm_excluded	-1.165047290698143	ECM-excluded score
+GSE135251	GSM3998307	non_advanced	structural_ecm	-1.4753772780916132	Structural ECM-only
+GSE135251	GSM3998308	advanced	primary	0.291542268479348	Primary locked score
+GSE135251	GSM3998308	advanced	ecm_excluded	0.2764308342996929	ECM-excluded score
+GSE135251	GSM3998308	advanced	structural_ecm	0.29267177965897373	Structural ECM-only
+GSE135251	GSM3998309	advanced	primary	0.1393592459287684	Primary locked score
+GSE135251	GSM3998309	advanced	ecm_excluded	0.23404154175268335	ECM-excluded score
+GSE135251	GSM3998309	advanced	structural_ecm	-0.34485809429904424	Structural ECM-only
+GSE135251	GSM3998310	non_advanced	primary	-0.6153092109312361	Primary locked score
+GSE135251	GSM3998310	non_advanced	ecm_excluded	-0.4846067138961724	ECM-excluded score
+GSE135251	GSM3998310	non_advanced	structural_ecm	-1.0877213283502394	Structural ECM-only
+GSE135251	GSM3998311	non_advanced	primary	-0.5978018609704936	Primary locked score
+GSE135251	GSM3998311	non_advanced	ecm_excluded	-0.6522829651804758	ECM-excluded score
+GSE135251	GSM3998311	non_advanced	structural_ecm	-0.19355899157681092	Structural ECM-only
+GSE135251	GSM3998312	non_advanced	primary	0.11855795144477878	Primary locked score
+GSE135251	GSM3998312	non_advanced	ecm_excluded	0.1332872548970034	ECM-excluded score
+GSE135251	GSM3998312	non_advanced	structural_ecm	0.01971898215905578	Structural ECM-only
+GSE135251	GSM3998313	non_advanced	primary	0.1655158117412417	Primary locked score
+GSE135251	GSM3998313	non_advanced	ecm_excluded	0.00655529837529798	ECM-excluded score
+GSE135251	GSM3998313	non_advanced	structural_ecm	0.8815094550759248	Structural ECM-only
+GSE135251	GSM3998314	advanced	primary	1.287608807693874	Primary locked score
+GSE135251	GSM3998314	advanced	ecm_excluded	1.4223625130133104	ECM-excluded score
+GSE135251	GSM3998314	advanced	structural_ecm	0.3341062293638668	Structural ECM-only
+GSE135251	GSM3998315	non_advanced	primary	-0.6293485178209959	Primary locked score
+GSE135251	GSM3998315	non_advanced	ecm_excluded	-0.5443521250826892	ECM-excluded score
+GSE135251	GSM3998315	non_advanced	structural_ecm	-0.8809330877006832	Structural ECM-only
+GSE135251	GSM3998316	non_advanced	primary	-0.7352143627308068	Primary locked score
+GSE135251	GSM3998316	non_advanced	ecm_excluded	-0.6527915398196757	ECM-excluded score
+GSE135251	GSM3998316	non_advanced	structural_ecm	-0.9488640807757156	Structural ECM-only
+GSE135251	GSM3998317	non_advanced	primary	-0.3816411040963705	Primary locked score
+GSE135251	GSM3998317	non_advanced	ecm_excluded	-0.12797480261419397	ECM-excluded score
+GSE135251	GSM3998317	non_advanced	structural_ecm	-1.4956912946753798	Structural ECM-only
+GSE135251	GSM3998318	non_advanced	primary	-0.01285859633136563	Primary locked score
+GSE135251	GSM3998318	non_advanced	ecm_excluded	0.07974161074078755	ECM-excluded score
+GSE135251	GSM3998318	non_advanced	structural_ecm	-0.4502298551797107	Structural ECM-only
+GSE135251	GSM3998319	advanced	primary	-0.4594770828200216	Primary locked score
+GSE135251	GSM3998319	advanced	ecm_excluded	-0.17092110548033626	ECM-excluded score
+GSE135251	GSM3998319	advanced	structural_ecm	-1.7206047070216108	Structural ECM-only
+GSE135251	GSM3998320	non_advanced	primary	-0.5284827832022899	Primary locked score
+GSE135251	GSM3998320	non_advanced	ecm_excluded	-0.4864876327998981	ECM-excluded score
+GSE135251	GSM3998320	non_advanced	structural_ecm	-0.5999929264022326	Structural ECM-only
+GSE135251	GSM3998321	non_advanced	primary	-1.217279313539343	Primary locked score
+GSE135251	GSM3998321	non_advanced	ecm_excluded	-1.3353229234717177	ECM-excluded score
+GSE135251	GSM3998321	non_advanced	structural_ecm	-0.36033361165870975	Structural ECM-only
+GSE135251	GSM3998322	advanced	primary	0.07146081231012542	Primary locked score
+GSE135251	GSM3998322	advanced	ecm_excluded	0.11384032940743392	ECM-excluded score
+GSE135251	GSM3998322	advanced	structural_ecm	-0.14747804658526406	Structural ECM-only
+GSE135251	GSM3998323	non_advanced	primary	-0.3846007794079514	Primary locked score
+GSE135251	GSM3998323	non_advanced	ecm_excluded	-0.19826304679754891	ECM-excluded score
+GSE135251	GSM3998323	non_advanced	structural_ecm	-1.1776559726587372	Structural ECM-only
+GSE135251	GSM3998324	advanced	primary	1.38012477596297	Primary locked score
+GSE135251	GSM3998324	advanced	ecm_excluded	1.540489063735139	ECM-excluded score
+GSE135251	GSM3998324	advanced	structural_ecm	0.2823419678233694	Structural ECM-only
+GSE135251	GSM3998325	non_advanced	primary	-1.4886084182213484	Primary locked score
+GSE135251	GSM3998325	non_advanced	ecm_excluded	-1.301958812617258	ECM-excluded score
+GSE135251	GSM3998325	non_advanced	structural_ecm	-2.0152155486675523	Structural ECM-only
+GSE135251	GSM3998326	non_advanced	primary	-1.314419339236416	Primary locked score
+GSE135251	GSM3998326	non_advanced	ecm_excluded	-1.418018774328986	ECM-excluded score
+GSE135251	GSM3998326	non_advanced	structural_ecm	-0.5026085293200987	Structural ECM-only
+GSE135251	GSM3998327	advanced	primary	2.393378323810396	Primary locked score
+GSE135251	GSM3998327	advanced	ecm_excluded	2.339895743044302	ECM-excluded score
+GSE135251	GSM3998327	advanced	structural_ecm	2.0669417649834156	Structural ECM-only
+GSE135251	GSM3998328	advanced	primary	0.6794825804376771	Primary locked score
+GSE135251	GSM3998328	advanced	ecm_excluded	0.6554077392533665	ECM-excluded score
+GSE135251	GSM3998328	advanced	structural_ecm	0.6291010788847398	Structural ECM-only
+GSE135251	GSM3998329	advanced	primary	0.973214686242876	Primary locked score
+GSE135251	GSM3998329	advanced	ecm_excluded	1.0219689649198058	ECM-excluded score
+GSE135251	GSM3998329	advanced	structural_ecm	0.505104936069991	Structural ECM-only
+GSE135251	GSM3998330	advanced	primary	-1.3100947313105509	Primary locked score
+GSE135251	GSM3998330	advanced	ecm_excluded	-1.4769569241834306	ECM-excluded score
+GSE135251	GSM3998330	advanced	structural_ecm	-0.1983974908009194	Structural ECM-only
+GSE135251	GSM3998331	non_advanced	primary	-1.0715936487904267	Primary locked score
+GSE135251	GSM3998331	non_advanced	ecm_excluded	-1.0519338328484733	ECM-excluded score
+GSE135251	GSM3998331	non_advanced	structural_ecm	-0.9050487822462614	Structural ECM-only
+GSE135251	GSM3998332	advanced	primary	1.7364070080002352	Primary locked score
+GSE135251	GSM3998332	advanced	ecm_excluded	1.6731543910475557	ECM-excluded score
+GSE135251	GSM3998332	advanced	structural_ecm	1.61588611509118	Structural ECM-only
+GSE135251	GSM3998333	advanced	primary	0.0854583355484235	Primary locked score
+GSE135251	GSM3998333	advanced	ecm_excluded	0.2582190186481894	ECM-excluded score
+GSE135251	GSM3998333	advanced	structural_ecm	-0.757090548035907	Structural ECM-only
+GSE135251	GSM3998334	advanced	primary	0.8773838816248111	Primary locked score
+GSE135251	GSM3998334	advanced	ecm_excluded	0.9593012677111924	ECM-excluded score
+GSE135251	GSM3998334	advanced	structural_ecm	0.27477701268725774	Structural ECM-only
+GSE135251	GSM3998335	non_advanced	primary	0.753815696380791	Primary locked score
+GSE135251	GSM3998335	non_advanced	ecm_excluded	0.644961777616385	ECM-excluded score
+GSE135251	GSM3998335	non_advanced	structural_ecm	1.0886817036004126	Structural ECM-only
+GSE135251	GSM3998336	non_advanced	primary	-0.3397321016843723	Primary locked score
+GSE135251	GSM3998336	non_advanced	ecm_excluded	-0.38410267805343207	ECM-excluded score
+GSE135251	GSM3998336	non_advanced	structural_ecm	-0.0462151699663471	Structural ECM-only
+GSE135251	GSM3998337	non_advanced	primary	-1.2973019700226067	Primary locked score
+GSE135251	GSM3998337	non_advanced	ecm_excluded	-1.0305575527752542	ECM-excluded score
+GSE135251	GSM3998337	non_advanced	structural_ecm	-2.2513419909617265	Structural ECM-only
+GSE135251	GSM3998338	advanced	primary	-0.19596152096059516	Primary locked score
+GSE135251	GSM3998338	advanced	ecm_excluded	-0.1923781116867617	ECM-excluded score
+GSE135251	GSM3998338	advanced	structural_ecm	-0.16544961513196638	Structural ECM-only
+GSE135251	GSM3998339	non_advanced	primary	-0.9130595112182812	Primary locked score
+GSE135251	GSM3998339	non_advanced	ecm_excluded	-0.759341963039625	ECM-excluded score
+GSE135251	GSM3998339	non_advanced	structural_ecm	-1.42269139765128	Structural ECM-only
+GSE135251	GSM3998340	advanced	primary	-1.7398047668426877	Primary locked score
+GSE135251	GSM3998340	advanced	ecm_excluded	-1.7469939123742382	ECM-excluded score
+GSE135251	GSM3998340	advanced	structural_ecm	-1.2833733406268384	Structural ECM-only
+GSE135251	GSM3998341	non_advanced	primary	0.6058597865693389	Primary locked score
+GSE135251	GSM3998341	non_advanced	ecm_excluded	0.6918959514629385	ECM-excluded score
+GSE135251	GSM3998341	non_advanced	structural_ecm	0.0495563940410814	Structural ECM-only
+GSE135251	GSM3998342	non_advanced	primary	1.9668159900214084	Primary locked score
+GSE135251	GSM3998342	non_advanced	ecm_excluded	2.18834050056144	ECM-excluded score
+GSE135251	GSM3998342	non_advanced	structural_ecm	0.4357147130702259	Structural ECM-only
+GSE135251	GSM3998343	non_advanced	primary	0.6376989289800549	Primary locked score
+GSE135251	GSM3998343	non_advanced	ecm_excluded	0.5203771362379862	ECM-excluded score
+GSE135251	GSM3998343	non_advanced	structural_ecm	1.0410263263216573	Structural ECM-only
+GSE135251	GSM3998344	non_advanced	primary	-0.47368352431561905	Primary locked score
+GSE135251	GSM3998344	non_advanced	ecm_excluded	-0.4473838938744136	ECM-excluded score
+GSE135251	GSM3998344	non_advanced	structural_ecm	-0.4838305442360511	Structural ECM-only
+GSE135251	GSM3998345	non_advanced	primary	-1.1069495818654853	Primary locked score
+GSE135251	GSM3998345	non_advanced	ecm_excluded	-1.2283930874256983	ECM-excluded score
+GSE135251	GSM3998345	non_advanced	structural_ecm	-0.2606067665395043	Structural ECM-only
+GSE135251	GSM3998346	non_advanced	primary	-0.31821352118369967	Primary locked score
+GSE135251	GSM3998346	non_advanced	ecm_excluded	-0.394274170837512	ECM-excluded score
+GSE135251	GSM3998346	non_advanced	structural_ecm	0.1208282556280075	Structural ECM-only
+GSE135251	GSM3998347	non_advanced	primary	0.5606011280988176	Primary locked score
+GSE135251	GSM3998347	non_advanced	ecm_excluded	0.4608739034510883	ECM-excluded score
+GSE135251	GSM3998347	non_advanced	structural_ecm	0.8989434125977303	Structural ECM-only
+GSE135251	GSM3998348	non_advanced	primary	-0.02785892720465305	Primary locked score
+GSE135251	GSM3998348	non_advanced	ecm_excluded	-0.16025718328368865	ECM-excluded score
+GSE135251	GSM3998348	non_advanced	structural_ecm	0.6087102607259869	Structural ECM-only
+GSE135251	GSM3998349	non_advanced	primary	0.0700749878701101	Primary locked score
+GSE135251	GSM3998349	non_advanced	ecm_excluded	0.19643123629153417	ECM-excluded score
+GSE135251	GSM3998349	non_advanced	structural_ecm	-0.5479982601367761	Structural ECM-only
+GSE135251	GSM3998350	non_advanced	primary	1.0851670163816771	Primary locked score
+GSE135251	GSM3998350	non_advanced	ecm_excluded	1.0655933673048814	ECM-excluded score
+GSE135251	GSM3998350	non_advanced	structural_ecm	0.9149181401947958	Structural ECM-only
+GSE135251	GSM3998351	non_advanced	primary	-0.15598849439946677	Primary locked score
+GSE135251	GSM3998351	non_advanced	ecm_excluded	-0.44725473206128347	ECM-excluded score
+GSE135251	GSM3998351	non_advanced	structural_ecm	1.267398968592621	Structural ECM-only
+GSE135251	GSM3998352	non_advanced	primary	0.19291195921362356	Primary locked score
+GSE135251	GSM3998352	non_advanced	ecm_excluded	0.23769036297364596	ECM-excluded score
+GSE135251	GSM3998352	non_advanced	structural_ecm	-0.06691319442504522	Structural ECM-only
+GSE135251	GSM3998353	non_advanced	primary	-1.2226624406354738	Primary locked score
+GSE135251	GSM3998353	non_advanced	ecm_excluded	-1.2546855890112198	ECM-excluded score
+GSE135251	GSM3998353	non_advanced	structural_ecm	-0.7736028866578767	Structural ECM-only
+GSE135251	GSM3998354	advanced	primary	1.036523882143087	Primary locked score
+GSE135251	GSM3998354	advanced	ecm_excluded	1.0198135771631784	ECM-excluded score
+GSE135251	GSM3998354	advanced	structural_ecm	0.8644595054290584	Structural ECM-only
+GSE135251	GSM3998355	non_advanced	primary	1.3183685391086026	Primary locked score
+GSE135251	GSM3998355	non_advanced	ecm_excluded	1.1171127855176	ECM-excluded score
+GSE135251	GSM3998355	non_advanced	structural_ecm	1.9557714851913153	Structural ECM-only
+GSE135251	GSM3998356	non_advanced	primary	0.6258184440822696	Primary locked score
+GSE135251	GSM3998356	non_advanced	ecm_excluded	0.5606352588683303	ECM-excluded score
+GSE135251	GSM3998356	non_advanced	structural_ecm	0.7840098556313153	Structural ECM-only
+GSE135251	GSM3998357	non_advanced	primary	0.5332398003359902	Primary locked score
+GSE135251	GSM3998357	non_advanced	ecm_excluded	0.3602649236351798	ECM-excluded score
+GSE135251	GSM3998357	non_advanced	structural_ecm	1.2266557330625971	Structural ECM-only
+GSE135251	GSM3998358	non_advanced	primary	0.5596540319991135	Primary locked score
+GSE135251	GSM3998358	non_advanced	ecm_excluded	0.4303674977121602	ECM-excluded score
+GSE135251	GSM3998358	non_advanced	structural_ecm	1.0388374814345582	Structural ECM-only
+GSE135251	GSM3998359	advanced	primary	2.2634938432543734	Primary locked score
+GSE135251	GSM3998359	advanced	ecm_excluded	2.169975305256844	ECM-excluded score
+GSE135251	GSM3998359	advanced	structural_ecm	2.159026853391523	Structural ECM-only
+GSE135251	GSM3998360	non_advanced	primary	-0.3886398657155286	Primary locked score
+GSE135251	GSM3998360	non_advanced	ecm_excluded	-0.6027494098446511	ECM-excluded score
+GSE135251	GSM3998360	non_advanced	structural_ecm	0.7241814287172987	Structural ECM-only
+GSE135251	GSM3998361	non_advanced	primary	-1.7904604802931543	Primary locked score
+GSE135251	GSM3998361	non_advanced	ecm_excluded	-1.8377220134856096	ECM-excluded score
+GSE135251	GSM3998361	non_advanced	structural_ecm	-1.1311142182172798	Structural ECM-only
+GSE135251	GSM3998362	non_advanced	primary	2.1786660668534807	Primary locked score
+GSE135251	GSM3998362	non_advanced	ecm_excluded	1.9778793986774157	ECM-excluded score
+GSE135251	GSM3998362	non_advanced	structural_ecm	2.6050520001221806	Structural ECM-only
+GSE135251	GSM3998363	non_advanced	primary	-0.2506145370671684	Primary locked score
+GSE135251	GSM3998363	non_advanced	ecm_excluded	-0.3828594956020454	ECM-excluded score
+GSE135251	GSM3998363	non_advanced	structural_ecm	0.4392859863070712	Structural ECM-only
+GSE135251	GSM3998364	advanced	primary	0.0891492247605201	Primary locked score
+GSE135251	GSM3998364	advanced	ecm_excluded	-0.02089965952840352	ECM-excluded score
+GSE135251	GSM3998364	advanced	structural_ecm	0.591007497691733	Structural ECM-only
+GSE135251	GSM3998365	advanced	primary	-0.16311260697299176	Primary locked score
+GSE135251	GSM3998365	advanced	ecm_excluded	-0.4161993886165431	ECM-excluded score
+GSE135251	GSM3998365	advanced	structural_ecm	1.0803871335019346	Structural ECM-only
+GSE135251	GSM3998366	non_advanced	primary	-1.2404413843306898	Primary locked score
+GSE135251	GSM3998366	non_advanced	ecm_excluded	-1.3434439724723386	ECM-excluded score
+GSE135251	GSM3998366	non_advanced	structural_ecm	-0.4494234386423581	Structural ECM-only
+GSE135251	GSM3998367	non_advanced	primary	-0.35613914882340586	Primary locked score
+GSE135251	GSM3998367	non_advanced	ecm_excluded	-0.6251509118095907	ECM-excluded score
+GSE135251	GSM3998367	non_advanced	structural_ecm	1.009960089239858	Structural ECM-only
+GSE135251	GSM3998368	non_advanced	primary	-0.02831158342877879	Primary locked score
+GSE135251	GSM3998368	non_advanced	ecm_excluded	-0.04196110768211784	ECM-excluded score
+GSE135251	GSM3998368	non_advanced	structural_ecm	0.04348906961719184	Structural ECM-only
+GSE135251	GSM3998369	advanced	primary	0.39114752961242366	Primary locked score
+GSE135251	GSM3998369	advanced	ecm_excluded	0.2400233482233272	ECM-excluded score
+GSE135251	GSM3998369	advanced	structural_ecm	1.0151057947639115	Structural ECM-only
+GSE135251	GSM3998370	non_advanced	primary	0.13485357551325092	Primary locked score
+GSE135251	GSM3998370	non_advanced	ecm_excluded	0.02810110332825034	ECM-excluded score
+GSE135251	GSM3998370	non_advanced	structural_ecm	0.6099390859257606	Structural ECM-only
+GSE135251	GSM3998371	non_advanced	primary	1.2058660575589375	Primary locked score
+GSE135251	GSM3998371	non_advanced	ecm_excluded	1.0661665228506465	ECM-excluded score
+GSE135251	GSM3998371	non_advanced	structural_ecm	1.577754133110676	Structural ECM-only
+GSE135251	GSM3998372	advanced	primary	1.2900183315946003	Primary locked score
+GSE135251	GSM3998372	advanced	ecm_excluded	1.25369333029056	ECM-excluded score
+GSE135251	GSM3998372	advanced	structural_ecm	1.14973895571421	Structural ECM-only
+GSE135251	GSM3998373	advanced	primary	0.42677505642195585	Primary locked score
+GSE135251	GSM3998373	advanced	ecm_excluded	0.3737542604940764	ECM-excluded score
+GSE135251	GSM3998373	advanced	structural_ecm	0.5754167779695918	Structural ECM-only
+GSE135251	GSM3998374	advanced	primary	0.4687954819045064	Primary locked score
+GSE135251	GSM3998374	advanced	ecm_excluded	0.4265249337715024	ECM-excluded score
+GSE135251	GSM3998374	advanced	structural_ecm	0.55610118186064	Structural ECM-only
+GSE135251	GSM3998375	non_advanced	primary	-0.7464193452633616	Primary locked score
+GSE135251	GSM3998375	non_advanced	ecm_excluded	-0.8009724299344859	ECM-excluded score
+GSE135251	GSM3998375	non_advanced	structural_ecm	-0.3057660926312228	Structural ECM-only
+GSE135251	GSM3998376	non_advanced	primary	1.1857124096725495	Primary locked score
+GSE135251	GSM3998376	non_advanced	ecm_excluded	1.041464326089299	ECM-excluded score
+GSE135251	GSM3998376	non_advanced	structural_ecm	1.5841286638345036	Structural ECM-only
+GSE135251	GSM3998377	non_advanced	primary	-0.4773187019924304	Primary locked score
+GSE135251	GSM3998377	non_advanced	ecm_excluded	-0.7600119899452467	ECM-excluded score
+GSE135251	GSM3998377	non_advanced	structural_ecm	0.9832715419322564	Structural ECM-only
+GSE135251	GSM3998378	advanced	primary	2.204739065363039	Primary locked score
+GSE135251	GSM3998378	advanced	ecm_excluded	1.9780569961704697	ECM-excluded score
+GSE135251	GSM3998378	advanced	structural_ecm	2.74797973117095	Structural ECM-only
+GSE135251	GSM3998379	advanced	primary	0.6474484476534946	Primary locked score
+GSE135251	GSM3998379	advanced	ecm_excluded	0.7018414110740496	ECM-excluded score
+GSE135251	GSM3998379	advanced	structural_ecm	0.2315761267576793	Structural ECM-only
+GSE135251	GSM3998380	non_advanced	primary	0.32338837483197114	Primary locked score
+GSE135251	GSM3998380	non_advanced	ecm_excluded	0.21603154143419573	ECM-excluded score
+GSE135251	GSM3998380	non_advanced	structural_ecm	0.7555932728865329	Structural ECM-only
+GSE135251	GSM3998381	non_advanced	primary	1.2735068253269306	Primary locked score
+GSE135251	GSM3998381	non_advanced	ecm_excluded	1.2211364807681635	ECM-excluded score
+GSE135251	GSM3998381	non_advanced	structural_ecm	1.2135610645275003	Structural ECM-only
+GSE135251	GSM3998382	advanced	primary	2.558597845615764	Primary locked score
+GSE135251	GSM3998382	advanced	ecm_excluded	2.390640190378231	ECM-excluded score
+GSE135251	GSM3998382	advanced	structural_ecm	2.7366130980730414	Structural ECM-only
+GSE162694	548nash1	non_advanced	primary	-0.25888472011036523	Primary locked score
+GSE162694	548nash1	non_advanced	ecm_excluded	-0.35784062866363453	ECM-excluded score
+GSE162694	548nash1	non_advanced	structural_ecm	0.4056625006879403	Structural ECM-only
+GSE162694	548nash10	non_advanced	primary	0.01966833336470403	Primary locked score
+GSE162694	548nash10	non_advanced	ecm_excluded	0.05188397177556186	ECM-excluded score
+GSE162694	548nash10	non_advanced	structural_ecm	-0.1756628456739707	Structural ECM-only
+GSE162694	548nash100	non_advanced	primary	-0.8449800992245463	Primary locked score
+GSE162694	548nash100	non_advanced	ecm_excluded	-0.8856974014508453	ECM-excluded score
+GSE162694	548nash100	non_advanced	structural_ecm	-0.33135135629742524	Structural ECM-only
+GSE162694	548nash101	advanced	primary	0.5518889034841887	Primary locked score
+GSE162694	548nash101	advanced	ecm_excluded	0.3940931891934935	ECM-excluded score
+GSE162694	548nash101	advanced	structural_ecm	1.2978023380777124	Structural ECM-only
+GSE162694	548nash102	non_advanced	primary	-0.5704903003397622	Primary locked score
+GSE162694	548nash102	non_advanced	ecm_excluded	-0.44791944279823104	ECM-excluded score
+GSE162694	548nash102	non_advanced	structural_ecm	-1.103771527069632	Structural ECM-only
+GSE162694	548nash103	non_advanced	primary	-1.0375065134849242	Primary locked score
+GSE162694	548nash103	non_advanced	ecm_excluded	-1.171675772538343	ECM-excluded score
+GSE162694	548nash103	non_advanced	structural_ecm	0.08680713652904858	Structural ECM-only
+GSE162694	548nash104	non_advanced	primary	-0.695226650159268	Primary locked score
+GSE162694	548nash104	non_advanced	ecm_excluded	-0.7504860828212546	ECM-excluded score
+GSE162694	548nash104	non_advanced	structural_ecm	-0.1450214937425559	Structural ECM-only
+GSE162694	548nash105	non_advanced	primary	-1.085506554634889	Primary locked score
+GSE162694	548nash105	non_advanced	ecm_excluded	-1.2297290715443487	ECM-excluded score
+GSE162694	548nash105	non_advanced	structural_ecm	0.1133784168756256	Structural ECM-only
+GSE162694	548nash106	non_advanced	primary	-0.8504449995452287	Primary locked score
+GSE162694	548nash106	non_advanced	ecm_excluded	-0.8884113325249913	ECM-excluded score
+GSE162694	548nash106	non_advanced	structural_ecm	-0.3511722740154779	Structural ECM-only
+GSE162694	548nash108	non_advanced	primary	-0.9636190371121834	Primary locked score
+GSE162694	548nash108	non_advanced	ecm_excluded	-1.0655390626926924	ECM-excluded score
+GSE162694	548nash108	non_advanced	structural_ecm	-0.05246872770349172	Structural ECM-only
+GSE162694	548nash109	non_advanced	primary	-1.4349869301423286	Primary locked score
+GSE162694	548nash109	non_advanced	ecm_excluded	-1.5169882375462544	ECM-excluded score
+GSE162694	548nash109	non_advanced	structural_ecm	-0.4873376770368403	Structural ECM-only
+GSE162694	548nash11	non_advanced	primary	-0.4662270863512481	Primary locked score
+GSE162694	548nash11	non_advanced	ecm_excluded	-0.5751695207924352	ECM-excluded score
+GSE162694	548nash11	non_advanced	structural_ecm	0.32432724901685656	Structural ECM-only
+GSE162694	548nash110	non_advanced	primary	-0.3909632647125608	Primary locked score
+GSE162694	548nash110	non_advanced	ecm_excluded	-0.3326930386481108	ECM-excluded score
+GSE162694	548nash110	non_advanced	structural_ecm	-0.6055352030617012	Structural ECM-only
+GSE162694	548nash111	non_advanced	primary	-0.14587260551587197	Primary locked score
+GSE162694	548nash111	non_advanced	ecm_excluded	-0.14971427620621075	ECM-excluded score
+GSE162694	548nash111	non_advanced	structural_ecm	-0.07589645682600166	Structural ECM-only
+GSE162694	548nash1119	advanced	primary	2.5732897508958876	Primary locked score
+GSE162694	548nash1119	advanced	ecm_excluded	2.688707806713015	ECM-excluded score
+GSE162694	548nash1119	advanced	structural_ecm	1.059421885254899	Structural ECM-only
+GSE162694	548nash112	non_advanced	primary	-1.0813218578152597	Primary locked score
+GSE162694	548nash112	non_advanced	ecm_excluded	-1.0465641142470503	ECM-excluded score
+GSE162694	548nash112	non_advanced	structural_ecm	-0.9334572307510552	Structural ECM-only
+GSE162694	548nash1120	advanced	primary	3.065985935455348	Primary locked score
+GSE162694	548nash1120	advanced	ecm_excluded	3.1126847769927375	ECM-excluded score
+GSE162694	548nash1120	advanced	structural_ecm	1.7948805116346709	Structural ECM-only
+GSE162694	548nash1121	advanced	primary	3.010618399058246	Primary locked score
+GSE162694	548nash1121	advanced	ecm_excluded	3.1198504577914172	ECM-excluded score
+GSE162694	548nash1121	advanced	structural_ecm	1.3907852742842808	Structural ECM-only
+GSE162694	548nash1122	advanced	primary	1.3190748869284366	Primary locked score
+GSE162694	548nash1122	advanced	ecm_excluded	1.4966149929614998	ECM-excluded score
+GSE162694	548nash1122	advanced	structural_ecm	-0.15117623613914635	Structural ECM-only
+GSE162694	548nash1123	advanced	primary	3.281879858679517	Primary locked score
+GSE162694	548nash1123	advanced	ecm_excluded	3.427805464084319	ECM-excluded score
+GSE162694	548nash1123	advanced	structural_ecm	1.3586217817601582	Structural ECM-only
+GSE162694	548nash1124	advanced	primary	1.348721971168123	Primary locked score
+GSE162694	548nash1124	advanced	ecm_excluded	1.5186141972402838	ECM-excluded score
+GSE162694	548nash1124	advanced	structural_ecm	-0.08631981088474547	Structural ECM-only
+GSE162694	548nash1125	advanced	primary	2.049438574415662	Primary locked score
+GSE162694	548nash1125	advanced	ecm_excluded	2.327941168707005	ECM-excluded score
+GSE162694	548nash1125	advanced	structural_ecm	-0.25047936480672844	Structural ECM-only
+GSE162694	548nash1126	non_advanced	primary	1.7300657516008562	Primary locked score
+GSE162694	548nash1126	non_advanced	ecm_excluded	1.8083728881192105	ECM-excluded score
+GSE162694	548nash1126	non_advanced	structural_ecm	0.708105218455921	Structural ECM-only
+GSE162694	548nash1127	non_advanced	primary	0.08086003667764297	Primary locked score
+GSE162694	548nash1127	non_advanced	ecm_excluded	0.01623047810087027	ECM-excluded score
+GSE162694	548nash1127	non_advanced	structural_ecm	0.4335904715627955	Structural ECM-only
+GSE162694	548nash1128	advanced	primary	0.12074874892571064	Primary locked score
+GSE162694	548nash1128	advanced	ecm_excluded	-0.04612222938434114	ECM-excluded score
+GSE162694	548nash1128	advanced	structural_ecm	1.0601167755254812	Structural ECM-only
+GSE162694	548nash1129	non_advanced	primary	0.4718028133217899	Primary locked score
+GSE162694	548nash1129	non_advanced	ecm_excluded	0.3501568455877261	ECM-excluded score
+GSE162694	548nash1129	non_advanced	structural_ecm	1.0317586344831218	Structural ECM-only
+GSE162694	548nash113	non_advanced	primary	-1.2029715509721548	Primary locked score
+GSE162694	548nash113	non_advanced	ecm_excluded	-1.2322116696163297	ECM-excluded score
+GSE162694	548nash113	non_advanced	structural_ecm	-0.6402135365650774	Structural ECM-only
+GSE162694	548nash1130	non_advanced	primary	0.14402517621749325	Primary locked score
+GSE162694	548nash1130	non_advanced	ecm_excluded	-0.00341590027787724	ECM-excluded score
+GSE162694	548nash1130	non_advanced	structural_ecm	0.9618725272702136	Structural ECM-only
+GSE162694	548nash1131	advanced	primary	1.7865110877834256	Primary locked score
+GSE162694	548nash1131	advanced	ecm_excluded	1.6190183624469934	ECM-excluded score
+GSE162694	548nash1131	advanced	structural_ecm	2.187725144604198	Structural ECM-only
+GSE162694	548nash1132	non_advanced	primary	0.01497762725612126	Primary locked score
+GSE162694	548nash1132	non_advanced	ecm_excluded	-0.14010549321396695	ECM-excluded score
+GSE162694	548nash1132	non_advanced	structural_ecm	0.9196165808161968	Structural ECM-only
+GSE162694	548nash1133	non_advanced	primary	-0.24063802515076493	Primary locked score
+GSE162694	548nash1133	non_advanced	ecm_excluded	-0.17743474058724917	ECM-excluded score
+GSE162694	548nash1133	non_advanced	structural_ecm	-0.5330349848308846	Structural ECM-only
+GSE162694	548nash1134	non_advanced	primary	-0.9569498346837972	Primary locked score
+GSE162694	548nash1134	non_advanced	ecm_excluded	-0.9836076840488808	ECM-excluded score
+GSE162694	548nash1134	non_advanced	structural_ecm	-0.4893561678228178	Structural ECM-only
+GSE162694	548nash1135	non_advanced	primary	0.4633625783820742	Primary locked score
+GSE162694	548nash1135	non_advanced	ecm_excluded	0.3535817024733947	ECM-excluded score
+GSE162694	548nash1135	non_advanced	structural_ecm	0.9564788551699772	Structural ECM-only
+GSE162694	548nash1136	non_advanced	primary	0.6781028004274336	Primary locked score
+GSE162694	548nash1136	non_advanced	ecm_excluded	0.49946255054417127	ECM-excluded score
+GSE162694	548nash1136	non_advanced	structural_ecm	1.5052105388402646	Structural ECM-only
+GSE162694	548nash1137	advanced	primary	1.0618602451684669	Primary locked score
+GSE162694	548nash1137	advanced	ecm_excluded	0.9481300871034432	ECM-excluded score
+GSE162694	548nash1137	advanced	structural_ecm	1.3834723814367182	Structural ECM-only
+GSE162694	548nash1138	advanced	primary	0.95065964382842	Primary locked score
+GSE162694	548nash1138	advanced	ecm_excluded	0.8945736759687386	ECM-excluded score
+GSE162694	548nash1138	advanced	structural_ecm	0.9703766605816344	Structural ECM-only
+GSE162694	548nash1139	non_advanced	primary	-0.02256320189121402	Primary locked score
+GSE162694	548nash1139	non_advanced	ecm_excluded	-0.08939842759369632	ECM-excluded score
+GSE162694	548nash1139	non_advanced	structural_ecm	0.3767418294265394	Structural ECM-only
+GSE162694	548nash114	non_advanced	primary	-0.6511532410915674	Primary locked score
+GSE162694	548nash114	non_advanced	ecm_excluded	-0.6829650575316432	ECM-excluded score
+GSE162694	548nash114	non_advanced	structural_ecm	-0.25279566570867296	Structural ECM-only
+GSE162694	548nash115	non_advanced	primary	-0.0197244897801948	Primary locked score
+GSE162694	548nash115	non_advanced	ecm_excluded	0.02226206296212075	ECM-excluded score
+GSE162694	548nash115	non_advanced	structural_ecm	-0.2595460283371941	Structural ECM-only
+GSE162694	548nash116	advanced	primary	-0.08261638430400997	Primary locked score
+GSE162694	548nash116	advanced	ecm_excluded	-0.10883039977531549	ECM-excluded score
+GSE162694	548nash116	advanced	structural_ecm	0.09799156088414632	Structural ECM-only
+GSE162694	548nash117	non_advanced	primary	-0.14825084917394724	Primary locked score
+GSE162694	548nash117	non_advanced	ecm_excluded	-0.20152158415383728	ECM-excluded score
+GSE162694	548nash117	non_advanced	structural_ecm	0.21238373542724395	Structural ECM-only
+GSE162694	548nash12	non_advanced	primary	0.01066136802135952	Primary locked score
+GSE162694	548nash12	non_advanced	ecm_excluded	-0.06072441986228321	ECM-excluded score
+GSE162694	548nash12	non_advanced	structural_ecm	0.42584740854772857	Structural ECM-only
+GSE162694	548nash13	non_advanced	primary	-0.5285977913074437	Primary locked score
+GSE162694	548nash13	non_advanced	ecm_excluded	-0.6511483063318305	ECM-excluded score
+GSE162694	548nash13	non_advanced	structural_ecm	0.3620498637056421	Structural ECM-only
+GSE162694	548nash14	non_advanced	primary	-0.7489445962743884	Primary locked score
+GSE162694	548nash14	non_advanced	ecm_excluded	-0.7573752924710121	ECM-excluded score
+GSE162694	548nash14	non_advanced	structural_ecm	-0.45590216479618567	Structural ECM-only
+GSE162694	548nash143	non_advanced	primary	1.087479495468093	Primary locked score
+GSE162694	548nash143	non_advanced	ecm_excluded	0.977921263967249	ECM-excluded score
+GSE162694	548nash143	non_advanced	structural_ecm	1.376291848640696	Structural ECM-only
+GSE162694	548nash144	advanced	primary	3.734383725417542	Primary locked score
+GSE162694	548nash144	advanced	ecm_excluded	3.766127158612255	ECM-excluded score
+GSE162694	548nash144	advanced	structural_ecm	2.333585921400836	Structural ECM-only
+GSE162694	548nash145	non_advanced	primary	0.16987213069714874	Primary locked score
+GSE162694	548nash145	non_advanced	ecm_excluded	0.14377395404903687	ECM-excluded score
+GSE162694	548nash145	non_advanced	structural_ecm	0.26767714695790956	Structural ECM-only
+GSE162694	548nash146	non_advanced	primary	0.2221024095027524	Primary locked score
+GSE162694	548nash146	non_advanced	ecm_excluded	0.12751857894588764	ECM-excluded score
+GSE162694	548nash146	non_advanced	structural_ecm	0.7045645870772357	Structural ECM-only
+GSE162694	548nash148	non_advanced	primary	0.5675296506056878	Primary locked score
+GSE162694	548nash148	non_advanced	ecm_excluded	0.554875267964518	ECM-excluded score
+GSE162694	548nash148	non_advanced	structural_ecm	0.4571505607368427	Structural ECM-only
+GSE162694	548nash149	non_advanced	primary	1.0690152165142444	Primary locked score
+GSE162694	548nash149	non_advanced	ecm_excluded	0.8905676654434919	ECM-excluded score
+GSE162694	548nash149	non_advanced	structural_ecm	1.76784597110771	Structural ECM-only
+GSE162694	548nash15	non_advanced	primary	-0.9778227178530604	Primary locked score
+GSE162694	548nash15	non_advanced	ecm_excluded	-0.9533030607656406	ECM-excluded score
+GSE162694	548nash15	non_advanced	structural_ecm	-0.8035789301778238	Structural ECM-only
+GSE162694	548nash150	non_advanced	primary	0.1282326263093068	Primary locked score
+GSE162694	548nash150	non_advanced	ecm_excluded	0.16206054575653644	ECM-excluded score
+GSE162694	548nash150	non_advanced	structural_ecm	-0.1118653008318875	Structural ECM-only
+GSE162694	548nash151	non_advanced	primary	0.6290097792133317	Primary locked score
+GSE162694	548nash151	non_advanced	ecm_excluded	0.5389866403038218	ECM-excluded score
+GSE162694	548nash151	non_advanced	structural_ecm	0.9523756935722502	Structural ECM-only
+GSE162694	548nash153	advanced	primary	0.6286049717821678	Primary locked score
+GSE162694	548nash153	advanced	ecm_excluded	0.6082229151704408	ECM-excluded score
+GSE162694	548nash153	advanced	structural_ecm	0.543680944430857	Structural ECM-only
+GSE162694	548nash154	non_advanced	primary	1.0547761151231392	Primary locked score
+GSE162694	548nash154	non_advanced	ecm_excluded	1.0193862940377223	ECM-excluded score
+GSE162694	548nash154	non_advanced	structural_ecm	0.9192525906744644	Structural ECM-only
+GSE162694	548nash155	non_advanced	primary	0.3270537961242432	Primary locked score
+GSE162694	548nash155	non_advanced	ecm_excluded	0.21568466411138493	ECM-excluded score
+GSE162694	548nash155	non_advanced	structural_ecm	0.8738200029834978	Structural ECM-only
+GSE162694	548nash156	non_advanced	primary	0.8790795698133014	Primary locked score
+GSE162694	548nash156	non_advanced	ecm_excluded	0.8754576708144621	ECM-excluded score
+GSE162694	548nash156	non_advanced	structural_ecm	0.6143943019658846	Structural ECM-only
+GSE162694	548nash157	non_advanced	primary	0.5699382548210993	Primary locked score
+GSE162694	548nash157	non_advanced	ecm_excluded	0.3764949542241363	ECM-excluded score
+GSE162694	548nash157	non_advanced	structural_ecm	1.51904216422615	Structural ECM-only
+GSE162694	548nash158	non_advanced	primary	0.4999065692301729	Primary locked score
+GSE162694	548nash158	non_advanced	ecm_excluded	0.4395416607158336	ECM-excluded score
+GSE162694	548nash158	non_advanced	structural_ecm	0.6913285819232777	Structural ECM-only
+GSE162694	548nash159	non_advanced	primary	0.17356599850649826	Primary locked score
+GSE162694	548nash159	non_advanced	ecm_excluded	0.04162068565524929	ECM-excluded score
+GSE162694	548nash159	non_advanced	structural_ecm	0.8909275396449909	Structural ECM-only
+GSE162694	548nash16	non_advanced	primary	0.17589870132856766	Primary locked score
+GSE162694	548nash16	non_advanced	ecm_excluded	0.17182731226245476	ECM-excluded score
+GSE162694	548nash16	non_advanced	structural_ecm	0.14256380824010437	Structural ECM-only
+GSE162694	548nash160	non_advanced	primary	0.463367638474963	Primary locked score
+GSE162694	548nash160	non_advanced	ecm_excluded	0.3637998504469468	ECM-excluded score
+GSE162694	548nash160	non_advanced	structural_ecm	0.8965859318483084	Structural ECM-only
+GSE162694	548nash17	non_advanced	primary	-0.01105655066044981	Primary locked score
+GSE162694	548nash17	non_advanced	ecm_excluded	-0.10994756890770814	ECM-excluded score
+GSE162694	548nash17	non_advanced	structural_ecm	0.5725023456536035	Structural ECM-only
+GSE162694	548nash19	non_advanced	primary	-0.0199167733099958	Primary locked score
+GSE162694	548nash19	non_advanced	ecm_excluded	-0.07197510294304725	ECM-excluded score
+GSE162694	548nash19	non_advanced	structural_ecm	0.29186594637677016	Structural ECM-only
+GSE162694	548nash2	non_advanced	primary	0.5161191068481862	Primary locked score
+GSE162694	548nash2	non_advanced	ecm_excluded	0.4073355930001909	ECM-excluded score
+GSE162694	548nash2	non_advanced	structural_ecm	0.9862267767535008	Structural ECM-only
+GSE162694	548nash21	non_advanced	primary	-0.3827962747888768	Primary locked score
+GSE162694	548nash21	non_advanced	ecm_excluded	-0.1210007725963806	ECM-excluded score
+GSE162694	548nash21	non_advanced	structural_ecm	-1.7936321156940138	Structural ECM-only
+GSE162694	548nash22	non_advanced	primary	-0.934321099281874	Primary locked score
+GSE162694	548nash22	non_advanced	ecm_excluded	-0.9050221705339034	ECM-excluded score
+GSE162694	548nash22	non_advanced	structural_ecm	-0.8022553296624283	Structural ECM-only
+GSE162694	548nash23	non_advanced	primary	1.1640741215367276	Primary locked score
+GSE162694	548nash23	non_advanced	ecm_excluded	0.963860731250468	ECM-excluded score
+GSE162694	548nash23	non_advanced	structural_ecm	1.959635685788588	Structural ECM-only
+GSE162694	548nash24	non_advanced	primary	-0.734138764479661	Primary locked score
+GSE162694	548nash24	non_advanced	ecm_excluded	-0.865385235407342	ECM-excluded score
+GSE162694	548nash24	non_advanced	structural_ecm	0.2743613295606588	Structural ECM-only
+GSE162694	548nash25	non_advanced	primary	0.09276643524667892	Primary locked score
+GSE162694	548nash25	non_advanced	ecm_excluded	-0.08239637257703437	ECM-excluded score
+GSE162694	548nash25	non_advanced	structural_ecm	1.089864697109005	Structural ECM-only
+GSE162694	548nash26	non_advanced	primary	-1.1772156781645111	Primary locked score
+GSE162694	548nash26	non_advanced	ecm_excluded	-1.026725898744561	ECM-excluded score
+GSE162694	548nash26	non_advanced	structural_ecm	-1.6768905502360891	Structural ECM-only
+GSE162694	548nash27	non_advanced	primary	-0.6680792518070047	Primary locked score
+GSE162694	548nash27	non_advanced	ecm_excluded	-0.74655342178449835	ECM-excluded score
+GSE162694	548nash27	non_advanced	structural_ecm	0.00944268640415447	Structural ECM-only
+GSE162694	548nash28	non_advanced	primary	-0.1740421426318193	Primary locked score
+GSE162694	548nash28	non_advanced	ecm_excluded	-0.34081226279716537	ECM-excluded score
+GSE162694	548nash28	non_advanced	structural_ecm	0.8606170878424225	Structural ECM-only
+GSE162694	548nash29	non_advanced	primary	0.07530911477784112	Primary locked score
+GSE162694	548nash29	non_advanced	ecm_excluded	-0.04834528311243637	ECM-excluded score
+GSE162694	548nash29	non_advanced	structural_ecm	0.7760059248957345	Structural ECM-only
+GSE162694	548nash3	advanced	primary	3.175430684562732	Primary locked score
+GSE162694	548nash3	advanced	ecm_excluded	3.305695492552788	ECM-excluded score
+GSE162694	548nash3	advanced	structural_ecm	1.3786412395555232	Structural ECM-only
+GSE162694	548nash30	non_advanced	primary	-0.0692830395401329	Primary locked score
+GSE162694	548nash30	non_advanced	ecm_excluded	-0.15625366521855202	ECM-excluded score
+GSE162694	548nash30	non_advanced	structural_ecm	0.4633053031334364	Structural ECM-only
+GSE162694	548nash31	non_advanced	primary	0.1666539116194163	Primary locked score
+GSE162694	548nash31	non_advanced	ecm_excluded	0.02492521362115641	ECM-excluded score
+GSE162694	548nash31	non_advanced	structural_ecm	0.9436399301706342	Structural ECM-only
+GSE162694	548nash32	non_advanced	primary	-1.236990555468383	Primary locked score
+GSE162694	548nash32	non_advanced	ecm_excluded	-1.2344403656127716	ECM-excluded score
+GSE162694	548nash32	non_advanced	structural_ecm	-0.8496071381007179	Structural ECM-only
+GSE162694	548nash33	non_advanced	primary	-0.2445393567685818	Primary locked score
+GSE162694	548nash33	non_advanced	ecm_excluded	-0.4320251728691882	ECM-excluded score
+GSE162694	548nash33	non_advanced	structural_ecm	0.934540176627289	Structural ECM-only
+GSE162694	548nash34	non_advanced	primary	0.16604670047267384	Primary locked score
+GSE162694	548nash34	non_advanced	ecm_excluded	0.1090965727981002	ECM-excluded score
+GSE162694	548nash34	non_advanced	structural_ecm	0.4460323164075168	Structural ECM-only
+GSE162694	548nash35	non_advanced	primary	1.383449388668883	Primary locked score
+GSE162694	548nash35	non_advanced	ecm_excluded	1.2052369710674369	ECM-excluded score
+GSE162694	548nash35	non_advanced	structural_ecm	1.978629353184518	Structural ECM-only
+GSE162694	548nash36	non_advanced	primary	-0.23610924201464367	Primary locked score
+GSE162694	548nash36	non_advanced	ecm_excluded	-0.09015449155198264	ECM-excluded score
+GSE162694	548nash36	non_advanced	structural_ecm	-1.015288832615412	Structural ECM-only
+GSE162694	548nash37	advanced	primary	2.0818838900232506	Primary locked score
+GSE162694	548nash37	advanced	ecm_excluded	2.0661173484062387	ECM-excluded score
+GSE162694	548nash37	advanced	structural_ecm	1.4972027557221166	Structural ECM-only
+GSE162694	548nash38	non_advanced	primary	-1.2142808585802294	Primary locked score
+GSE162694	548nash38	non_advanced	ecm_excluded	-1.1637991659281408	ECM-excluded score
+GSE162694	548nash38	non_advanced	structural_ecm	-1.1153861215922307	Structural ECM-only
+GSE162694	548nash39	non_advanced	primary	-0.5926889278460774	Primary locked score
+GSE162694	548nash39	non_advanced	ecm_excluded	-0.5549476310424594	ECM-excluded score
+GSE162694	548nash39	non_advanced	structural_ecm	-0.6212529591820268	Structural ECM-only
+GSE162694	548nash40	non_advanced	primary	-1.3142075729624263	Primary locked score
+GSE162694	548nash40	non_advanced	ecm_excluded	-1.3455422716023906	ECM-excluded score
+GSE162694	548nash40	non_advanced	structural_ecm	-0.7029852910077289	Structural ECM-only
+GSE162694	548nash41	advanced	primary	0.19410997563793972	Primary locked score
+GSE162694	548nash41	advanced	ecm_excluded	-0.01782061136372773	ECM-excluded score
+GSE162694	548nash41	advanced	structural_ecm	1.373876277700097	Structural ECM-only
+GSE162694	548nash44	non_advanced	primary	-0.3494856832971804	Primary locked score
+GSE162694	548nash44	non_advanced	ecm_excluded	-0.00717365099592533	ECM-excluded score
+GSE162694	548nash44	non_advanced	structural_ecm	-2.2433584808126827	Structural ECM-only
+GSE162694	548nash45	non_advanced	primary	-0.4783358886358626	Primary locked score
+GSE162694	548nash45	non_advanced	ecm_excluded	-0.33076338287397794	ECM-excluded score
+GSE162694	548nash45	non_advanced	structural_ecm	-1.1882172399518935	Structural ECM-only
+GSE162694	548nash46	non_advanced	primary	0.5192310639752405	Primary locked score
+GSE162694	548nash46	non_advanced	ecm_excluded	0.7505773455253312	ECM-excluded score
+GSE162694	548nash46	non_advanced	structural_ecm	-1.0064207091622557	Structural ECM-only
+GSE162694	548nash47	non_advanced	primary	-0.03963089520755766	Primary locked score
+GSE162694	548nash47	non_advanced	ecm_excluded	0.2192223663639612	ECM-excluded score
+GSE162694	548nash47	non_advanced	structural_ecm	-1.5448283088124568	Structural ECM-only
+GSE162694	548nash48	non_advanced	primary	-0.8545689752501826	Primary locked score
+GSE162694	548nash48	non_advanced	ecm_excluded	-0.6153988940952649	ECM-excluded score
+GSE162694	548nash48	non_advanced	structural_ecm	-1.9792670879783012	Structural ECM-only
+GSE162694	548nash49	non_advanced	primary	-0.6834416938195799	Primary locked score
+GSE162694	548nash49	non_advanced	ecm_excluded	-0.45423314107675383	ECM-excluded score
+GSE162694	548nash49	non_advanced	structural_ecm	-1.8053790702681531	Structural ECM-only
+GSE162694	548nash5	non_advanced	primary	-0.6947560615205431	Primary locked score
+GSE162694	548nash5	non_advanced	ecm_excluded	-0.6739205013739377	ECM-excluded score
+GSE162694	548nash5	non_advanced	structural_ecm	-0.5909755973923444	Structural ECM-only
+GSE162694	548nash51	non_advanced	primary	-0.15723251405284103	Primary locked score
+GSE162694	548nash51	non_advanced	ecm_excluded	-0.20348509353804367	ECM-excluded score
+GSE162694	548nash51	non_advanced	structural_ecm	0.16516428704049171	Structural ECM-only
+GSE162694	548nash52	non_advanced	primary	0.16306124566785946	Primary locked score
+GSE162694	548nash52	non_advanced	ecm_excluded	0.1862828037634124	ECM-excluded score
+GSE162694	548nash52	non_advanced	structural_ecm	-0.02616216745999574	Structural ECM-only
+GSE162694	548nash53	non_advanced	primary	-0.04296549642174913	Primary locked score
+GSE162694	548nash53	non_advanced	ecm_excluded	0.00543117648773999	ECM-excluded score
+GSE162694	548nash53	non_advanced	structural_ecm	-0.3128209490818789	Structural ECM-only
+GSE162694	548nash54	non_advanced	primary	-0.6500754413061	Primary locked score
+GSE162694	548nash54	non_advanced	ecm_excluded	-0.6529086940556019	ECM-excluded score
+GSE162694	548nash54	non_advanced	structural_ecm	-0.4220179916020492	Structural ECM-only
+GSE162694	548nash55	non_advanced	primary	-0.5073150406141343	Primary locked score
+GSE162694	548nash55	non_advanced	ecm_excluded	-0.2581417470001041	ECM-excluded score
+GSE162694	548nash55	non_advanced	structural_ecm	-1.8036252995852535	Structural ECM-only
+GSE162694	548nash56	non_advanced	primary	3.7925926986122615e-4	Primary locked score
+GSE162694	548nash56	non_advanced	ecm_excluded	0.12823514702575692	ECM-excluded score
+GSE162694	548nash56	non_advanced	structural_ecm	-0.7495760291496677	Structural ECM-only
+GSE162694	548nash57	non_advanced	primary	-0.3873301180178869	Primary locked score
+GSE162694	548nash57	non_advanced	ecm_excluded	-0.25384798078924153	ECM-excluded score
+GSE162694	548nash57	non_advanced	structural_ecm	-1.044176413863927	Structural ECM-only
+GSE162694	548nash58	non_advanced	primary	-0.27509725772838195	Primary locked score
+GSE162694	548nash58	non_advanced	ecm_excluded	-0.24233775336458863	ECM-excluded score
+GSE162694	548nash58	non_advanced	structural_ecm	-0.3777435543620549	Structural ECM-only
+GSE162694	548nash59	non_advanced	primary	-1.0740656846116892	Primary locked score
+GSE162694	548nash59	non_advanced	ecm_excluded	-0.8856466210357381	ECM-excluded score
+GSE162694	548nash59	non_advanced	structural_ecm	-1.8297333197514405	Structural ECM-only
+GSE162694	548nash6	non_advanced	primary	0.2817760849488385	Primary locked score
+GSE162694	548nash6	non_advanced	ecm_excluded	0.33878203260336426	ECM-excluded score
+GSE162694	548nash6	non_advanced	structural_ecm	-0.14419424342043335	Structural ECM-only
+GSE162694	548nash60	non_advanced	primary	-0.16441784595595813	Primary locked score
+GSE162694	548nash60	non_advanced	ecm_excluded	-0.07696286816039566	ECM-excluded score
+GSE162694	548nash60	non_advanced	structural_ecm	-0.6238339801870492	Structural ECM-only
+GSE162694	548nash61	non_advanced	primary	0.5869249866512121	Primary locked score
+GSE162694	548nash61	non_advanced	ecm_excluded	0.5743580205612443	ECM-excluded score
+GSE162694	548nash61	non_advanced	structural_ecm	0.46972476563310456	Structural ECM-only
+GSE162694	548nash62	non_advanced	primary	-0.5992265678593349	Primary locked score
+GSE162694	548nash62	non_advanced	ecm_excluded	-0.49250464726372056	ECM-excluded score
+GSE162694	548nash62	non_advanced	structural_ecm	-1.030212428426501	Structural ECM-only
+GSE162694	548nash63	non_advanced	primary	-0.244099128687193	Primary locked score
+GSE162694	548nash63	non_advanced	ecm_excluded	-0.21805343040591216	ECM-excluded score
+GSE162694	548nash63	non_advanced	structural_ecm	-0.31745355088576793	Structural ECM-only
+GSE162694	548nash64	non_advanced	primary	-1.3172992897179223	Primary locked score
+GSE162694	548nash64	non_advanced	ecm_excluded	-1.1619823555209157	ECM-excluded score
+GSE162694	548nash64	non_advanced	structural_ecm	-1.7997206780648356	Structural ECM-only
+GSE162694	548nash65	non_advanced	primary	-1.018156718275406	Primary locked score
+GSE162694	548nash65	non_advanced	ecm_excluded	-0.9422160034668946	ECM-excluded score
+GSE162694	548nash65	non_advanced	structural_ecm	-1.1323612982021831	Structural ECM-only
+GSE162694	548nash66	non_advanced	primary	-0.4959905527273936	Primary locked score
+GSE162694	548nash66	non_advanced	ecm_excluded	-0.33362965519344867	ECM-excluded score
+GSE162694	548nash66	non_advanced	structural_ecm	-1.2868585683617797	Structural ECM-only
+GSE162694	548nash67	non_advanced	primary	-0.3821840035492456	Primary locked score
+GSE162694	548nash67	non_advanced	ecm_excluded	-0.34205356183315905	ECM-excluded score
+GSE162694	548nash67	non_advanced	structural_ecm	-0.493227699330353	Structural ECM-only
+GSE162694	548nash68	non_advanced	primary	0.6787960331532956	Primary locked score
+GSE162694	548nash68	non_advanced	ecm_excluded	0.6596860447489978	ECM-excluded score
+GSE162694	548nash68	non_advanced	structural_ecm	0.5700867747130043	Structural ECM-only
+GSE162694	548nash69	non_advanced	primary	0.35512213138239784	Primary locked score
+GSE162694	548nash69	non_advanced	ecm_excluded	0.4659418343040443	ECM-excluded score
+GSE162694	548nash69	non_advanced	structural_ecm	-0.4103041270407959	Structural ECM-only
+GSE162694	548nash7	non_advanced	primary	-0.9920567591512738	Primary locked score
+GSE162694	548nash7	non_advanced	ecm_excluded	-0.9835738304388072	ECM-excluded score
+GSE162694	548nash7	non_advanced	structural_ecm	-0.7191332172955589	Structural ECM-only
+GSE162694	548nash70	non_advanced	primary	-0.3342750440712925	Primary locked score
+GSE162694	548nash70	non_advanced	ecm_excluded	-0.22096484087214657	ECM-excluded score
+GSE162694	548nash70	non_advanced	structural_ecm	-0.8900762238589521	Structural ECM-only
+GSE162694	548nash71	non_advanced	primary	-1.373628243764036	Primary locked score
+GSE162694	548nash71	non_advanced	ecm_excluded	-1.2187266482707837	ECM-excluded score
+GSE162694	548nash71	non_advanced	structural_ecm	-1.8352924419161032	Structural ECM-only
+GSE162694	548nash72	non_advanced	primary	-1.1981948232844526	Primary locked score
+GSE162694	548nash72	non_advanced	ecm_excluded	-0.9817175241531648	ECM-excluded score
+GSE162694	548nash72	non_advanced	structural_ecm	-2.078040776439724	Structural ECM-only
+GSE162694	548nash73	non_advanced	primary	-0.8520945898272103	Primary locked score
+GSE162694	548nash73	non_advanced	ecm_excluded	-0.8130531965035944	ECM-excluded score
+GSE162694	548nash73	non_advanced	structural_ecm	-0.8039098303066735	Structural ECM-only
+GSE162694	548nash75	non_advanced	primary	0.5589325527863994	Primary locked score
+GSE162694	548nash75	non_advanced	ecm_excluded	0.5297558892907179	ECM-excluded score
+GSE162694	548nash75	non_advanced	structural_ecm	0.548247366208971	Structural ECM-only
+GSE162694	548nash76	non_advanced	primary	-1.381714272201486	Primary locked score
+GSE162694	548nash76	non_advanced	ecm_excluded	-1.2310606468738663	ECM-excluded score
+GSE162694	548nash76	non_advanced	structural_ecm	-1.8158355143397829	Structural ECM-only
+GSE162694	548nash77	non_advanced	primary	-0.19231919814875909	Primary locked score
+GSE162694	548nash77	non_advanced	ecm_excluded	-0.1292554111857263	ECM-excluded score
+GSE162694	548nash77	non_advanced	structural_ecm	-0.4996140718171384	Structural ECM-only
+GSE162694	548nash78	non_advanced	primary	-0.3731871583916821	Primary locked score
+GSE162694	548nash78	non_advanced	ecm_excluded	-0.3608253886183627	ECM-excluded score
+GSE162694	548nash78	non_advanced	structural_ecm	-0.3243031835529404	Structural ECM-only
+GSE162694	548nash79	non_advanced	primary	-1.1328639639878866	Primary locked score
+GSE162694	548nash79	non_advanced	ecm_excluded	-0.9605533755895044	ECM-excluded score
+GSE162694	548nash79	non_advanced	structural_ecm	-1.7749362584140476	Structural ECM-only
+GSE162694	548nash80	non_advanced	primary	0.7886810103420648	Primary locked score
+GSE162694	548nash80	non_advanced	ecm_excluded	0.8633832165552678	ECM-excluded score
+GSE162694	548nash80	non_advanced	structural_ecm	0.0940538493508426	Structural ECM-only
+GSE162694	548nash81	non_advanced	primary	-0.7079021828475114	Primary locked score
+GSE162694	548nash81	non_advanced	ecm_excluded	-0.7798935854375738	ECM-excluded score
+GSE162694	548nash81	non_advanced	structural_ecm	-0.05544682886313235	Structural ECM-only
+GSE162694	548nash82	non_advanced	primary	-0.6694505369800623	Primary locked score
+GSE162694	548nash82	non_advanced	ecm_excluded	-0.5788877756320663	ECM-excluded score
+GSE162694	548nash82	non_advanced	structural_ecm	-0.9828275299753224	Structural ECM-only
+GSE162694	548nash83	non_advanced	primary	0.3249285571106445	Primary locked score
+GSE162694	548nash83	non_advanced	ecm_excluded	0.29012875266082744	ECM-excluded score
+GSE162694	548nash83	non_advanced	structural_ecm	0.42333256756847815	Structural ECM-only
+GSE162694	548nash84	non_advanced	primary	-1.0791611981514326	Primary locked score
+GSE162694	548nash84	non_advanced	ecm_excluded	-1.0112773680148088	ECM-excluded score
+GSE162694	548nash84	non_advanced	structural_ecm	-1.1262727358313611	Structural ECM-only
+GSE162694	548nash85	non_advanced	primary	-0.26598403043435936	Primary locked score
+GSE162694	548nash85	non_advanced	ecm_excluded	-0.19813058087824223	ECM-excluded score
+GSE162694	548nash85	non_advanced	structural_ecm	-0.5774086921095368	Structural ECM-only
+GSE162694	548nash86	advanced	primary	0.6551906998236945	Primary locked score
+GSE162694	548nash86	advanced	ecm_excluded	0.6704289236786742	ECM-excluded score
+GSE162694	548nash86	advanced	structural_ecm	0.35271848007210194	Structural ECM-only
+GSE162694	548nash87	non_advanced	primary	-0.05909707255353172	Primary locked score
+GSE162694	548nash87	non_advanced	ecm_excluded	-0.16269713566901922	ECM-excluded score
+GSE162694	548nash87	non_advanced	structural_ecm	0.5677042937852912	Structural ECM-only
+GSE162694	548nash88	non_advanced	primary	-1.5712957124001596	Primary locked score
+GSE162694	548nash88	non_advanced	ecm_excluded	-1.5087053876151817	ECM-excluded score
+GSE162694	548nash88	non_advanced	structural_ecm	-1.427292583045292	Structural ECM-only
+GSE162694	548nash89	non_advanced	primary	-0.7504373236767973	Primary locked score
+GSE162694	548nash89	non_advanced	ecm_excluded	-0.9203465713600584	ECM-excluded score
+GSE162694	548nash89	non_advanced	structural_ecm	0.4901082135702019	Structural ECM-only
+GSE162694	548nash9	non_advanced	primary	0.04604659759776004	Primary locked score
+GSE162694	548nash9	non_advanced	ecm_excluded	0.07552507614286287	ECM-excluded score
+GSE162694	548nash9	non_advanced	structural_ecm	-0.1418117624927202	Structural ECM-only
+GSE162694	548nash90	non_advanced	primary	0.17884873548315375	Primary locked score
+GSE162694	548nash90	non_advanced	ecm_excluded	0.04784410764024468	ECM-excluded score
+GSE162694	548nash90	non_advanced	structural_ecm	0.888975228884782	Structural ECM-only
+GSE162694	548nash91	non_advanced	primary	-0.7023158402974812	Primary locked score
+GSE162694	548nash91	non_advanced	ecm_excluded	-0.8325810872470844	ECM-excluded score
+GSE162694	548nash91	non_advanced	structural_ecm	0.2900790856809877	Structural ECM-only
+GSE162694	548nash92	advanced	primary	-0.42802844512827903	Primary locked score
+GSE162694	548nash92	advanced	ecm_excluded	-0.561915832449051	ECM-excluded score
+GSE162694	548nash92	advanced	structural_ecm	0.4963953160183329	Structural ECM-only
+GSE162694	548nash93	non_advanced	primary	-1.1572637319011423	Primary locked score
+GSE162694	548nash93	non_advanced	ecm_excluded	-1.0702221454193883	ECM-excluded score
+GSE162694	548nash93	non_advanced	structural_ecm	-1.291325720101242	Structural ECM-only
+GSE162694	548nash95	non_advanced	primary	-0.34649010830658844	Primary locked score
+GSE162694	548nash95	non_advanced	ecm_excluded	-0.32205172054865183	ECM-excluded score
+GSE162694	548nash95	non_advanced	structural_ecm	-0.3771148441172415	Structural ECM-only
+GSE162694	548nash96	non_advanced	primary	0.6555600866046302	Primary locked score
+GSE162694	548nash96	non_advanced	ecm_excluded	0.5647830911790709	ECM-excluded score
+GSE162694	548nash96	non_advanced	structural_ecm	0.9747114522695564	Structural ECM-only
+GSE162694	548nash98	non_advanced	primary	-1.0182123792971929	Primary locked score
+GSE162694	548nash98	non_advanced	ecm_excluded	-0.9961786579224724	ECM-excluded score
+GSE162694	548nash98	non_advanced	structural_ecm	-0.8162524051127402	Structural ECM-only
+GSE162694	548nash99	non_advanced	primary	-0.5057666521899421	Primary locked score
+GSE162694	548nash99	non_advanced	ecm_excluded	-0.5688671070506057	ECM-excluded score
+GSE162694	548nash99	non_advanced	structural_ecm	0.02880034394182016	Structural ECM-only

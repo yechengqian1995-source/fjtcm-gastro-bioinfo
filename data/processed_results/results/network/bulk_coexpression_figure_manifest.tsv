@@ -1,0 +1,5 @@
+file_stem	source_data	role	boundary
+bulk_locked_gene_fibrosis_consistency_heatmap	results/network/bulk_locked_gene_fibrosis_associations.tsv; results/network/bulk_locked_gene_consistency_summary.tsv	gene-level fibrosis association context	Exploratory gene-level association; not signature redefinition.
+bulk_locked_gene_coexpression_heatmap	results/network/bulk_locked_gene_coexpression_edge_summary.tsv	inter-gene coexpression context	Coexpression among samples; not direct interaction.
+bulk_locked_gene_coexpression_network	results/network/bulk_locked_gene_coexpression_edge_summary.tsv; results/network/network_prioritization_gene_evidence_matrix.tsv	reproducible coexpression network context	Candidate context network; not validated regulatory mechanism.
+network_prioritization_integrated_candidate_evidence_matrix	results/network/network_prioritization_gene_evidence_matrix.tsv	integrated prioritization matrix	Candidate prioritization only; not proof of mechanical memory.

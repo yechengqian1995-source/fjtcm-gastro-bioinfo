@@ -1,0 +1,302 @@
+gene_set	gene_symbol	set_size	role	source_note
+primary	ATF3	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FOS	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FOSB	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FOSL1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FOSL2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	JUN	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	JUNB	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	JUND	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MAFF	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MAFG	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LOX	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LOXL2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MMP14	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MMP2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	PLOD2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	SPARC	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	THY1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TIMP1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TIMP2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	VCAN	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL1A1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL1A2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL3A1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL5A1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL5A2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL6A1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL6A2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	COL6A3	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	DCN	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FN1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LAMA2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LAMB1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LUM	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	POSTN	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CCL2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CXCL8	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	IL6	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	NFKB1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	NFKBIA	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	RELA	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ACTA2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CNN1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MYL9	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MYLK	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	PXN	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	RHOA	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ROCK1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ROCK2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TAGLN	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TLN1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	VASP	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	VCL	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ZYX	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	SERPINE1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	SMAD2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	SMAD3	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	SMAD4	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TGFB1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TGFBR1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TGFBR2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	THBS1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	AMOTL2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ANKRD1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CTGF	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CYR61	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TEAD1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TEAD2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TEAD3	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	TEAD4	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	WWTR1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	YAP1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ACTB	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CAV1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CFL1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FLNA	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FLNB	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	PFN1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	FERMT2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ITGA1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ITGA2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ITGA5	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ITGAV	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ITGB1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	ITGB3	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	PARVA	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	PARVB	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	PTK2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	SRC	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	CDC42	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LATS1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LATS2	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LIMD1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	LMNA	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MRTFA	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	MRTFB	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	RAC1	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+primary	SRF	97	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ATF3	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	FOS	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	FOSB	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	FOSL1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	FOSL2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	JUN	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	JUNB	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	JUND	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MAFF	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MAFG	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	LOX	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	LOXL2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MMP14	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MMP2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	PLOD2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	SPARC	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	THY1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TIMP1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TIMP2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	VCAN	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CCL2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CXCL8	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	IL6	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	NFKB1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	NFKBIA	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	RELA	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ACTA2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CNN1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MYL9	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MYLK	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	PXN	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	RHOA	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ROCK1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ROCK2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TAGLN	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TLN1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	VASP	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	VCL	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ZYX	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	SERPINE1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	SMAD2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	SMAD3	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	SMAD4	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TGFB1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TGFBR1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TGFBR2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	THBS1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	AMOTL2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ANKRD1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CTGF	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CYR61	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TEAD1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TEAD2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TEAD3	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	TEAD4	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	WWTR1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	YAP1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ACTB	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CAV1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CFL1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	FLNA	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	FLNB	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	PFN1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	FERMT2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ITGA1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ITGA2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ITGA5	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ITGAV	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ITGB1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	ITGB3	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	PARVA	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	PARVB	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	PTK2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	SRC	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	CDC42	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	LATS1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	LATS2	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	LIMD1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	LMNA	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MRTFA	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	MRTFB	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	RAC1	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+ecm_excluded	SRF	83	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL1A1	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL1A2	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL3A1	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL5A1	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL5A2	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL6A1	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL6A2	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	COL6A3	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	DCN	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	FN1	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	LAMA2	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	LAMB1	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	LUM	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+structural_ecm	POSTN	14	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	LOX	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	LOXL2	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	MMP14	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	MMP2	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	PLOD2	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	SPARC	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	THY1	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	TIMP1	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	TIMP2	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+hsc_context	VCAN	10	locked_program_or_internal_sensitivity	Locked program component from the predefined 97-gene table.
+core_fibrosis_stromal_benchmark	COL1A1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	COL1A2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	COL3A1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	COL5A1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	COL5A2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	COL6A1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	COL6A2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	COL6A3	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	DCN	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	LUM	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	FN1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	POSTN	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	SPARC	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	THBS1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	THBS2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	MMP2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	MMP14	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	TIMP1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	TIMP2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	LOX	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	LOXL2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	ACTA2	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	TGFB1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	SERPINE1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	CTGF	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	PDGFRB	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	VIM	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	VCAN	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	ITGB1	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+core_fibrosis_stromal_benchmark	ITGAV	30	transparent_benchmark_or_proxy	Core fibrosis and stromal-remodeling comparator compiled from canonical fibrogenic ECM, remodeling, TGF-beta, integrin and myofibroblast markers; not claimed as a single published signature.
+hsc_myofibroblast_benchmark	ACTA2	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	TAGLN	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	MYL9	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	COL1A1	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	COL1A2	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	COL3A1	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	PDGFRB	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	RGS5	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	CSPG4	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	DES	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	DCN	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	LUM	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	THY1	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	COL6A3	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	SPARC	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	MMP2	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	TIMP1	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	PDGFRA	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+hsc_myofibroblast_benchmark	FAP	19	transparent_benchmark_or_proxy	HSC and myofibroblast marker-context comparator; used as stromal abundance sensitivity, not as direct deconvolution.
+inflammatory_activity_benchmark	PTPRC	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	LST1	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	AIF1	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	CD68	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	CD14	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	ITGAM	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	FCGR3A	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	CSF1R	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	TYROBP	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	NFKB1	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	RELA	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	IL1B	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	IL6	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	TNF	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	CCL2	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	CXCL8	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	CXCL10	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	CCL5	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+inflammatory_activity_benchmark	NLRP3	19	transparent_benchmark_or_proxy	Inflammatory and myeloid-activation marker proxy used to evaluate inflammation-related bulk confounding.
+myeloid_immune_proxy	PTPRC	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	LST1	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	AIF1	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	CD68	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	CD14	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	ITGAM	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	FCGR3A	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	CSF1R	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	TYROBP	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	MS4A7	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	LILRB4	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	CTSS	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+myeloid_immune_proxy	SPI1	13	transparent_benchmark_or_proxy	Myeloid and pan-immune marker proxy used to evaluate immune-cell composition sensitivity.
+hepatocyte_identity_proxy	ALB	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	APOA1	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	APOB	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	TTR	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	TF	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	FGA	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	FGB	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	APOC3	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	CYP2E1	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	CYP3A4	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	PCK1	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	HNF4A	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	KRT18	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	SERPINA1	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	HPD	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.
+hepatocyte_identity_proxy	ARG1	16	transparent_benchmark_or_proxy	Hepatocyte identity proxy used as an alternative tissue-composition control.

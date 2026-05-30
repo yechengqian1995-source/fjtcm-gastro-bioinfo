@@ -1,0 +1,34 @@
+﻿cff-version: 1.2.0
+title: "Reproducibility archive for a MASLD fibrosis mechanostress/stromal transcriptomic program"
+version: "1.0.0"
+type: software
+message: "If you use this repository, please cite the associated manuscript and archived Zenodo record."
+authors:
+  - family-names: Ye
+    given-names: Chengqian
+    affiliation: "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine"
+  - family-names: Wu
+    given-names: Qingjie
+    affiliation: "Fujian University of Traditional Chinese Medicine"
+  - family-names: Wang
+    given-names: Zhaochu
+    affiliation: "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine"
+  - family-names: Cao
+    given-names: Hui
+    affiliation: "The Second Affiliated Hospital of Fujian University of Traditional Chinese Medicine"
+  - family-names: Lin
+    given-names: Guosheng
+    affiliation: "Fujian University of Traditional Chinese Medicine"
+  - family-names: Zhang
+    given-names: Cai
+    affiliation: "University of Illinois Urbana-Champaign"
+  - family-names: He
+    given-names: Shunyong
+    affiliation: "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine"
+keywords:
+  - MASLD
+  - liver fibrosis
+  - stromal transcriptomics
+  - mechanostress
+  - bioinformatics
+license: "MIT"

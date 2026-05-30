@@ -1,0 +1,9 @@
+file_stem	role	boundary
+phase2_bulk_readiness_heatmap	QC/readiness	Shows whether cohorts are ready for scoring and endpoint modeling.
+phase2_signature_gene_coverage	QC/signature coverage	Shows gene availability, not biological validation.
+phase2_primary_score_by_fibrosis_stage	Primary bulk association visualization	Shows association with fibrosis stage in mapped cohorts.
+phase2_score_by_advanced_fibrosis	Sensitivity distribution visualization	Compares primary, ECM-excluded, and structural ECM-only scores.
+phase2_advanced_fibrosis_forest	Within-cohort effect estimates	Shows association-level ORs without cutoff optimization.
+phase2_endpoint_spearman_dotplot	Ordinal endpoint correlations	Shows Spearman correlations with fibrosis stage and NAS.
+phase2_random_gene_set_controls	Negative-control benchmark	Benchmarks observed signal against expression-matched random gene sets.
+phase2_secondary_disease_state_context	Secondary context only	Does not support fibrosis interpretation.

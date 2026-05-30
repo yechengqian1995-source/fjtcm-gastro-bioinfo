@@ -1,0 +1,2 @@
+n_locked_primary_genes	n_nodes_in_graph	n_edges_in_graph	string_required_score	top_quartile_n_per_algorithm	n_high_priority_3plus	n_moderate_priority_2	n_structural_ecm_high_priority	n_ecm_excluded_high_priority	boundary
+97	97	671	700	25	27	3	5	22	PPI/network centrality used for Zhao-inspired candidate prioritization only; it does not alter the locked score.

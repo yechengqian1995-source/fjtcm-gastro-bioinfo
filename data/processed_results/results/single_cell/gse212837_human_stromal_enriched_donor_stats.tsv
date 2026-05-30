@@ -1,0 +1,5 @@
+score_name	donor_level_wilcox_p	interpretation_boundary
+primary	0.711531417761122	donor-level stromal-marker-enriched sensitivity analysis; not definitive HSC annotation or proof of mechanical memory
+ecm_excluded	0.8533074196871153	donor-level stromal-marker-enriched sensitivity analysis; not definitive HSC annotation or proof of mechanical memory
+structural_ecm	0.5790997419539189	donor-level stromal-marker-enriched sensitivity analysis; not definitive HSC annotation or proof of mechanical memory
+hsc_context	0.711531417761122	donor-level stromal-marker-enriched sensitivity analysis; not definitive HSC annotation or proof of mechanical memory

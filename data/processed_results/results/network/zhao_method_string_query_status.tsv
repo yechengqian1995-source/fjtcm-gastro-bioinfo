@@ -1,0 +1,2 @@
+source	species	required_score	evidence_channel_note	query_status	error_message
+STRING REST API	Homo sapiens 9606	700	STRING functional association network; edges may include multiple evidence channels and are not interpreted as direct physical binding.	success	NA

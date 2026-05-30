@@ -1,0 +1,2 @@
+n_primary_genes	n_genes_present_all_three	n_bulk_replicated_positive	n_directionally_consistent_positive	n_reproducible_coexpression_edges	n_evidence_matrix_genes	boundary
+97	95	42	23	1930	97	Summary for bulk gene-level/coexpression context only.

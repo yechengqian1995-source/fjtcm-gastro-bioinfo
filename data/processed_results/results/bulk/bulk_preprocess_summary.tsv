@@ -1,0 +1,6 @@
+accession	n_genes	n_samples	n_with_fibrosis	n_advanced	n_non_advanced	matrix_type	source_url
+GSE126848	19758	57	0	0	0	raw_gene_counts	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE126nnn/GSE126848/suppl/GSE126848_Gene_counts_raw.txt.gz
+GSE130970	19585	78	78	16	62	salmon_tximport_counts_entrez_gene_id	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130970/suppl/GSE130970_all_sample_salmon_tximport_counts_entrez_gene_ID.csv.gz
+GSE135251	61953	216	216	68	148	raw_counts_individual_gsm_files	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE135nnn/GSE135251/suppl/GSE135251_RAW.tar
+GSE162694	31668	143	143	20	123	raw_counts	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE162nnn/GSE162694/suppl/GSE162694_raw_counts.csv.gz
+GSE167523	26362	98	0	0	0	raw_gene_counts_matrix	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE167nnn/GSE167523/suppl/GSE167523_Raw_gene_counts_matrix.txt.gz

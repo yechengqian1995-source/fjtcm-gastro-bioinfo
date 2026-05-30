@@ -1,0 +1,64 @@
+disease_group	donor_id	region	broad_compartment	n_sketch_nuclei
+Control	Control_1	region_unspecified	Hepatocyte-like	700
+Control	Control_1	region_unspecified	Stromal-marker enriched	492
+Control	Control_2	region_unspecified	Hepatocyte-like	699
+Control	Control_2	region_unspecified	Cholangiocyte-like	1
+Control	Control_2	region_unspecified	Stromal-marker enriched	155
+Control	Control_3	region_unspecified	Hepatocyte-like	699
+Control	Control_3	region_unspecified	Cholangiocyte-like	1
+Control	Control_3	region_unspecified	Stromal-marker enriched	188
+NASH	NASH_1	R1C1	Hepatocyte-like	628
+NASH	NASH_1	R1C1	Immune-like	12
+NASH	NASH_1	R1C1	Endothelial-like	58
+NASH	NASH_1	R1C1	Cholangiocyte-like	2
+NASH	NASH_1	R1C1	High-confidence stromal	87
+NASH	NASH_1	R1C1	Stromal-marker enriched	77
+NASH	NASH_1	R1C2	Hepatocyte-like	671
+NASH	NASH_1	R1C2	Immune-like	5
+NASH	NASH_1	R1C2	Endothelial-like	22
+NASH	NASH_1	R1C2	Cholangiocyte-like	2
+NASH	NASH_1	R1C2	High-confidence stromal	68
+NASH	NASH_1	R1C2	Stromal-marker enriched	137
+NASH	NASH_2	R1C2	Hepatocyte-like	593
+NASH	NASH_2	R1C2	Immune-like	23
+NASH	NASH_2	R1C2	Endothelial-like	83
+NASH	NASH_2	R1C2	Cholangiocyte-like	1
+NASH	NASH_2	R1C2	High-confidence stromal	43
+NASH	NASH_2	R1C2	Stromal-marker enriched	29
+NASH	NASH_2	R2C1	Hepatocyte-like	571
+NASH	NASH_2	R2C1	Immune-like	36
+NASH	NASH_2	R2C1	Endothelial-like	90
+NASH	NASH_2	R2C1	Cholangiocyte-like	2
+NASH	NASH_2	R2C1	High-confidence stromal	68
+NASH	NASH_2	R2C1	Stromal-marker enriched	24
+NASH	NASH_2	R2C1	Unassigned	1
+NASH	NASH_3	R4C1	Hepatocyte-like	673
+NASH	NASH_3	R4C1	Immune-like	7
+NASH	NASH_3	R4C1	Endothelial-like	19
+NASH	NASH_3	R4C1	Cholangiocyte-like	1
+NASH	NASH_3	R4C1	High-confidence stromal	19
+NASH	NASH_3	R4C1	Stromal-marker enriched	31
+NASH	NASH_3	R5C2	Hepatocyte-like	700
+NASH	NASH_3	R5C2	Stromal-marker enriched	57
+NASH	NASH_3	R6C1	Hepatocyte-like	700
+NASH	NASH_3	R6C1	Stromal-marker enriched	70
+NASH	NASH_4	R4C1	Hepatocyte-like	698
+NASH	NASH_4	R4C1	Endothelial-like	2
+NASH	NASH_4	R4C1	Stromal-marker enriched	38
+NASH	NASH_4	R6C1	Hepatocyte-like	693
+NASH	NASH_4	R6C1	Endothelial-like	7
+NASH	NASH_4	R6C1	Stromal-marker enriched	38
+NASH	NASH_5	R3C8	Hepatocyte-like	691
+NASH	NASH_5	R3C8	Endothelial-like	9
+NASH	NASH_5	R3C8	Stromal-marker enriched	46
+NASH	NASH_5	R5C5	Hepatocyte-like	700
+NASH	NASH_5	R5C5	Stromal-marker enriched	67
+NASH	NASH_6	region_unspecified	Hepatocyte-like	700
+NASH	NASH_6	region_unspecified	Stromal-marker enriched	410
+NASH	NASH_7	region_unspecified	Hepatocyte-like	698
+NASH	NASH_7	region_unspecified	Endothelial-like	2
+NASH	NASH_7	region_unspecified	Stromal-marker enriched	116
+NASH	NASH_8	region_unspecified	Hepatocyte-like	700
+NASH	NASH_8	region_unspecified	Stromal-marker enriched	168
+NASH	NASH_9	region_unspecified	Hepatocyte-like	700
+NASH	NASH_9	region_unspecified	Stromal-marker enriched	197

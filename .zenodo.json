@@ -1,0 +1,19 @@
+﻿{
+  "title": "Reproducibility archive for a MASLD fibrosis mechanostress/stromal transcriptomic program",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {"name": "Ye, Chengqian", "affiliation": "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine"},
+    {"name": "Wu, Qingjie", "affiliation": "Fujian University of Traditional Chinese Medicine"},
+    {"name": "Wang, Zhaochu", "affiliation": "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine"},
+    {"name": "Cao, Hui", "affiliation": "The Second Affiliated Hospital of Fujian University of Traditional Chinese Medicine"},
+    {"name": "Lin, Guosheng", "affiliation": "Fujian University of Traditional Chinese Medicine"},
+    {"name": "Zhang, Cai", "affiliation": "University of Illinois Urbana-Champaign"},
+    {"name": "He, Shunyong", "affiliation": "The Affiliated People's Hospital of Fujian University of Traditional Chinese Medicine"}
+  ],
+  "description": "This archive contains the locked 97-gene program, benchmark and proxy gene sets, processed result tables, figure source data, analysis scripts, and environment files supporting a public-dataset bioinformatics study of a mechanostress/stromal transcriptomic program in MASLD-associated liver fibrosis. Raw public sequencing data and large single-cell objects are not redistributed and should be obtained from the original repositories.",
+  "keywords": ["MASLD", "MASH", "liver fibrosis", "stromal transcriptomics", "mechanostress", "single-nucleus RNA-seq", "spatial transcriptomics", "bioinformatics"]
+}

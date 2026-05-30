@@ -1,0 +1,82 @@
+accession	score_name	endpoint	model_type	n_model	n_advanced	n_non_advanced	effect_scale	estimate	conf_low	conf_high	beta	beta_se	p_value	target_vif	convergence_note	p_fdr_within_endpoint_model
+GSE130970	primary	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	5.51872549342991	2.07317613884792	14.690662554489	1.70814694475867	0.499523034094843	0.000627234408133212		glm_converged	0.00102486516263148
+GSE130970	primary	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.430802192238547					8.24336533883135e-05		nonparametric_spearman	0.00011714256007813
+GSE130970	primary	NAS	spearman	78			spearman_rho_with_NAS	0.373377579436722					0.000759939824608342		nonparametric_spearman	0.000977065488782154
+GSE130970	ecm_excluded	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	5.77508433742542	2.1089411548827	15.8143810827341	1.75355286018441	0.513962684174425	0.00064528547276797		glm_converged	0.00102486516263148
+GSE130970	ecm_excluded	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.432257470964286					7.7505123017358e-05		nonparametric_spearman	0.00011714256007813
+GSE130970	ecm_excluded	NAS	spearman	78			spearman_rho_with_NAS	0.376378613484421					0.000683237236289667		nonparametric_spearman	0.000970916072622158
+GSE130970	structural_ecm	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	3.90685694957191	1.7493855007627	8.7250815888	1.3627332015229	0.409932968200882	0.000886461874651323		glm_converged	0.00125970897976767
+GSE130970	structural_ecm	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.428023932853045					9.26578413814368e-05		nonparametric_spearman	0.00012508808586494
+GSE130970	structural_ecm	NAS	spearman	78			spearman_rho_with_NAS	0.302666519686209					0.00707256235295891		nonparametric_spearman	0.00830257319695176
+GSE130970	hsc_context	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	6.8692527139528	2.43753377188079	19.3583503918958	1.9270553250562	0.528606401087619	0.000266831796972874		glm_converged	0.000514604179876258
+GSE130970	hsc_context	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.495059362883224					4.0723934260547e-06		nonparametric_spearman	7.33030816689846e-06
+GSE130970	hsc_context	NAS	spearman	78			spearman_rho_with_NAS	0.434377138449186					7.08132633435438e-05		nonparametric_spearman	0.00011949738189223
+GSE130970	core_fibrosis_stromal_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	5.90575592539087	2.2206447986562	15.706227790863	1.77592745591695	0.499045843040823	0.000372771662860001		glm_converged	0.000670988993148002
+GSE130970	core_fibrosis_stromal_benchmark	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.500536502814642					3.06091120250794e-06		nonparametric_spearman	5.90318589055102e-06
+GSE130970	core_fibrosis_stromal_benchmark	NAS	spearman	78			spearman_rho_with_NAS	0.435536336150014					6.7384245921928e-05		nonparametric_spearman	0.00011949738189223
+GSE130970	hsc_myofibroblast_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	3.41349958877774	1.67671696556336	6.94928224732962	1.2277380374068	0.362704256669017	0.000711896023623158		glm_converged	0.00106784403543474
+GSE130970	hsc_myofibroblast_benchmark	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.369257131946383					0.000878028791261342		nonparametric_spearman	0.000987782390169009
+GSE130970	hsc_myofibroblast_benchmark	NAS	spearman	78			spearman_rho_with_NAS	0.237506728925218					0.0362780069859943		nonparametric_spearman	0.0391802475448739
+GSE130970	inflammatory_activity_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	2.63442123660163	1.35985942858709	5.10359755277689	0.968663513314466	0.337388867470244	0.00409098513243325		glm_converged	0.00480246080763903
+GSE130970	inflammatory_activity_benchmark	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.384233273014898					0.00051466986657023		nonparametric_spearman	0.000604177669452009
+GSE130970	inflammatory_activity_benchmark	NAS	spearman	78			spearman_rho_with_NAS	0.417246772425838					0.000144455787654454		nonparametric_spearman	0.000216683681481682
+GSE130970	myeloid_immune_proxy	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	1.87217069490404	1.02550730734306	3.41784313554867	0.627098557073704	0.307097516800782	0.041149778159009		glm_converged	0.0444417604117298
+GSE130970	myeloid_immune_proxy	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.261778183147257					0.0206038522565135		nonparametric_spearman	0.0222521604370345
+GSE130970	myeloid_immune_proxy	NAS	spearman	78			spearman_rho_with_NAS	0.331440382615653					0.0030345669589867		nonparametric_spearman	0.00372424126784731
+GSE130970	hepatocyte_identity_proxy	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	78	16	62	OR_per_1SD_score	1.17470005492678	0.660419301425641	2.08946076540487	0.161012842605833	0.293823052601043	0.583697021214936		glm_converged	0.583697021214936
+GSE130970	hepatocyte_identity_proxy	ordinal_fibrosis_stage	spearman	78			spearman_rho_with_fibrosis_stage	0.233633246829696					0.0395264595072709		nonparametric_spearman	0.0410467079498582
+GSE130970	hepatocyte_identity_proxy	NAS	spearman	78			spearman_rho_with_NAS	0.464081293837658					1.87228400803431e-05		nonparametric_spearman	3.88858986284049e-05
+GSE135251	primary	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	2.9580516299626	2.02661519748329	4.3175781255319	1.08453081848469	0.192940718099923	1.89792381836207e-08		glm_converged	3.42649056760762e-07
+GSE135251	primary	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.481707575292805					5.99958248542623e-14		nonparametric_spearman	1.29618554177511e-12
+GSE135251	primary	NAS	spearman	216			spearman_rho_with_NAS	0.408960394878655					4.07561753965546e-10		nonparametric_spearman	2.20083347141395e-09
+GSE135251	ecm_excluded	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	2.94563980568179	2.01419310031668	4.30782622751159	1.08032604501271	0.19393233485058	2.53814116119083e-08		glm_converged	3.42649056760762e-07
+GSE135251	ecm_excluded	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.474565993581799					1.56957288099173e-13		nonparametric_spearman	1.41261559289256e-12
+GSE135251	ecm_excluded	NAS	spearman	216			spearman_rho_with_NAS	0.392867622244501					2.19410904871151e-09		nonparametric_spearman	8.4629920450301e-09
+GSE135251	structural_ecm	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	2.20482555810547	1.58226396077242	3.07234182298001	0.790648393798983	0.169281472345737	3.00300949474023e-06		glm_converged	9.0090284842207e-06
+GSE135251	structural_ecm	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.42871138835362					4.55149359231523e-11		nonparametric_spearman	2.45780653985022e-10
+GSE135251	structural_ecm	NAS	spearman	216			spearman_rho_with_NAS	0.413072945449194					2.61234469223578e-10		nonparametric_spearman	1.76333266725915e-09
+GSE135251	hsc_context	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	3.32787795714237	2.15574851609526	5.13732080293576	1.2023348507548	0.221529004210239	5.71688382948845e-08		glm_converged	5.1451954465396e-07
+GSE135251	hsc_context	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.478236465702835					9.60137438351931e-14		nonparametric_spearman	1.29618554177511e-12
+GSE135251	hsc_context	NAS	spearman	216			spearman_rho_with_NAS	0.417343416032848					1.63552761037874e-10		nonparametric_spearman	1.54469666738013e-09
+GSE135251	core_fibrosis_stromal_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	2.55590088379791	1.77264554463778	3.68524285498588	0.938404757906563	0.18669983123615	5.00097720643198e-07		glm_converged	2.70052769147327e-06
+GSE135251	core_fibrosis_stromal_benchmark	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.452172566702742					2.78134128277905e-12		nonparametric_spearman	1.87740536587586e-11
+GSE135251	core_fibrosis_stromal_benchmark	NAS	spearman	216			spearman_rho_with_NAS	0.445546604329216					6.25971344395485e-12		nonparametric_spearman	1.69012262986781e-10
+GSE135251	hsc_myofibroblast_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	2.84691628452885	1.92482331226395	4.21074094410393	1.04623640306162	0.199695012944572	1.61299166344954e-07		glm_converged	1.08876937282844e-06
+GSE135251	hsc_myofibroblast_benchmark	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.36740802159235					2.63243637361982e-08		nonparametric_spearman	5.9229818406446e-08
+GSE135251	hsc_myofibroblast_benchmark	NAS	spearman	216			spearman_rho_with_NAS	0.227585040579472					0.000752434820089145		nonparametric_spearman	0.000977065488782154
+GSE135251	inflammatory_activity_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	1.64627802443781	1.20036790679415	2.25783388443394	0.49851699712731	0.161167805268895	0.00198040692680064		glm_converged	0.00267354935118087
+GSE135251	inflammatory_activity_benchmark	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.235715004368651					0.000476654581929648		nonparametric_spearman	0.000604177669452009
+GSE135251	inflammatory_activity_benchmark	NAS	spearman	216			spearman_rho_with_NAS	0.256109493635343					0.000141314761841559		nonparametric_spearman	0.000216683681481682
+GSE135251	myeloid_immune_proxy	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	0.901628740488271	0.677181150094716	1.20046812519923	-0.103552439559368	0.146053073783218	0.478321034212472		glm_converged	0.496717997066798
+GSE135251	myeloid_immune_proxy	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	-0.00537422835756459					0.937408884957991		nonparametric_spearman	0.937408884957991
+GSE135251	myeloid_immune_proxy	NAS	spearman	216			spearman_rho_with_NAS	0.0897178820980938					0.188988346664325		nonparametric_spearman	0.188988346664325
+GSE135251	hepatocyte_identity_proxy	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	216	68	148	OR_per_1SD_score	1.64543477845559	1.09541421328329	2.47162724138489	0.498004652307962	0.207587797753648	0.0164395847637702		glm_converged	0.0184945328592414
+GSE135251	hepatocyte_identity_proxy	ordinal_fibrosis_stage	spearman	216			spearman_rho_with_fibrosis_stage	0.264746298316681					8.18572105360862e-05		nonparametric_spearman	0.00011714256007813
+GSE135251	hepatocyte_identity_proxy	NAS	spearman	216			spearman_rho_with_NAS	0.127980993207924					0.0604162373158966		nonparametric_spearman	0.0627399387511234
+GSE162694	primary	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	8.86752078380476	3.52193205153442	22.3266444952994	2.18239525148074	0.471115068455355	3.61444233800163e-06		glm_converged	9.75899431260439e-06
+GSE162694	primary	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.488920246228203					5.80794491446062e-10		nonparametric_spearman	2.2402073241491e-09
+GSE162694	primary	NAS	spearman	117			spearman_rho_with_NAS	0.456674534045469					2.27629782960717e-07		nonparametric_spearman	7.68250517492419e-07
+GSE162694	ecm_excluded	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	8.18685591255523	3.33193609721171	20.1158148828332	2.10252993069812	0.4586614209619	4.56040625139268e-06		glm_converged	1.11937244352366e-05
+GSE162694	ecm_excluded	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.459341130806591					7.90444580320419e-09		nonparametric_spearman	2.13420036686513e-08
+GSE162694	ecm_excluded	NAS	spearman	117			spearman_rho_with_NAS	0.396527620278221					9.60467534119122e-06		nonparametric_spearman	2.22593709369336e-05
+GSE162694	structural_ecm	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	5.0269323504754	2.37959042246809	10.6194951104427	1.61480992738404	0.381572217301044	2.31632387334243e-05		glm_converged	4.81082650617273e-05
+GSE162694	structural_ecm	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.452934976246213					1.34758706743732e-08		nonparametric_spearman	3.30771371098252e-08
+GSE162694	structural_ecm	NAS	spearman	117			spearman_rho_with_NAS	0.53360795998416					5.83864684367774e-10		nonparametric_spearman	2.62739107965498e-09
+GSE162694	hsc_context	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	7.32521938220519	3.23000681082821	16.6126086228518	1.99132310424375	0.417774927752992	1.8745615389338e-06		glm_converged	6.32664519390158e-06
+GSE162694	hsc_context	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.470692042734477					2.98853759967216e-09		nonparametric_spearman	1.00863143988935e-08
+GSE162694	hsc_context	NAS	spearman	117			spearman_rho_with_NAS	0.396002685159331					9.89305374974825e-06		nonparametric_spearman	2.22593709369336e-05
+GSE162694	core_fibrosis_stromal_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	7.69643096623518	3.346667749153	17.6997102963135	2.04075671052672	0.424893653815921	1.56319686660908e-06		glm_converged	6.02947362834929e-06
+GSE162694	core_fibrosis_stromal_benchmark	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.513120547504126					5.65606014999901e-11		nonparametric_spearman	2.54522706749956e-10
+GSE162694	core_fibrosis_stromal_benchmark	NAS	spearman	117			spearman_rho_with_NAS	0.547279096341325					1.71632963042237e-10		nonparametric_spearman	1.54469666738013e-09
+GSE162694	hsc_myofibroblast_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	6.05255649801097	2.96454175413246	12.3572016182768	1.80048074444342	0.36416238554289	7.64689508789004e-07		glm_converged	3.44110278955052e-06
+GSE162694	hsc_myofibroblast_benchmark	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.418718651224546					1.94664393822493e-07		nonparametric_spearman	4.04302971785177e-07
+GSE162694	hsc_myofibroblast_benchmark	NAS	spearman	117			spearman_rho_with_NAS	0.406904598570471					5.2964376573862e-06		nonparametric_spearman	1.43003816749427e-05
+GSE162694	inflammatory_activity_benchmark	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	3.99309999979494	2.1797766104009	7.31489985362757	1.38456787154284	0.308849730757983	7.36070421971179e-06		glm_converged	1.65615844943515e-05
+GSE162694	inflammatory_activity_benchmark	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.467064724030389					4.09377723923844e-09		nonparametric_spearman	1.22813317177153e-08
+GSE162694	inflammatory_activity_benchmark	NAS	spearman	117			spearman_rho_with_NAS	0.365529821120031					5.06696832419281e-05		nonparametric_spearman	9.77201033951471e-05
+GSE162694	myeloid_immune_proxy	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	2.34901054365178	1.33616570485366	4.12961544675446	0.853994194237063	0.287852089915653	0.00300934945384885		glm_converged	0.00369329251154177
+GSE162694	myeloid_immune_proxy	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.345243090270897					2.41220790105225e-05		nonparametric_spearman	4.07060083302567e-05
+GSE162694	myeloid_immune_proxy	NAS	spearman	117			spearman_rho_with_NAS	0.234341687929742					0.0109875750071695		nonparametric_spearman	0.0123610218830657
+GSE162694	hepatocyte_identity_proxy	advanced_fibrosis_F3_F4_vs_F0_F2	logistic_base	143	20	123	OR_per_1SD_score	2.66729413098814	1.41819692475753	5.01655155007483	0.981064524453782	0.322284811724884	0.00233383980466994		glm_converged	0.00300065117743278
+GSE162694	hepatocyte_identity_proxy	ordinal_fibrosis_stage	spearman	143			spearman_rho_with_fibrosis_stage	0.287014046299556					0.000509932404398973		nonparametric_spearman	0.000604177669452009
+GSE162694	hepatocyte_identity_proxy	NAS	spearman	117			spearman_rho_with_NAS	0.418091802807093					2.72553957329819e-06		nonparametric_spearman	8.17661871989457e-06

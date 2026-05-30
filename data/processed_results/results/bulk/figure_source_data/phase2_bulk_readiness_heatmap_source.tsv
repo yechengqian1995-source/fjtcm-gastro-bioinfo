@@ -1,0 +1,41 @@
+accession	metric	available	status
+GSE126848	Expression matrix loaded	TRUE	Available
+GSE126848	Sample IDs matched	TRUE	Available
+GSE126848	Locked-gene coverage	TRUE	Available
+GSE126848	Fibrosis endpoint	FALSE	Not available
+GSE126848	Advanced fibrosis split	FALSE	Not available
+GSE126848	NAS available	FALSE	Not available
+GSE126848	Age/sex covariates	FALSE	Not available
+GSE126848	Disease-state context	TRUE	Available
+GSE130970	Expression matrix loaded	TRUE	Available
+GSE130970	Sample IDs matched	TRUE	Available
+GSE130970	Locked-gene coverage	TRUE	Available
+GSE130970	Fibrosis endpoint	TRUE	Available
+GSE130970	Advanced fibrosis split	TRUE	Available
+GSE130970	NAS available	TRUE	Available
+GSE130970	Age/sex covariates	TRUE	Available
+GSE130970	Disease-state context	FALSE	Not available
+GSE135251	Expression matrix loaded	TRUE	Available
+GSE135251	Sample IDs matched	TRUE	Available
+GSE135251	Locked-gene coverage	TRUE	Available
+GSE135251	Fibrosis endpoint	TRUE	Available
+GSE135251	Advanced fibrosis split	TRUE	Available
+GSE135251	NAS available	TRUE	Available
+GSE135251	Age/sex covariates	FALSE	Not available
+GSE135251	Disease-state context	FALSE	Not available
+GSE162694	Expression matrix loaded	TRUE	Available
+GSE162694	Sample IDs matched	TRUE	Available
+GSE162694	Locked-gene coverage	TRUE	Available
+GSE162694	Fibrosis endpoint	TRUE	Available
+GSE162694	Advanced fibrosis split	TRUE	Available
+GSE162694	NAS available	TRUE	Available
+GSE162694	Age/sex covariates	TRUE	Available
+GSE162694	Disease-state context	FALSE	Not available
+GSE167523	Expression matrix loaded	TRUE	Available
+GSE167523	Sample IDs matched	TRUE	Available
+GSE167523	Locked-gene coverage	TRUE	Available
+GSE167523	Fibrosis endpoint	FALSE	Not available
+GSE167523	Advanced fibrosis split	FALSE	Not available
+GSE167523	NAS available	FALSE	Not available
+GSE167523	Age/sex covariates	TRUE	Available
+GSE167523	Disease-state context	TRUE	Available

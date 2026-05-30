@@ -1,0 +1,2 @@
+accession	n_genes	n_samples	n_with_fibrosis	n_advanced	n_non_advanced	matrix_type	source_url
+GSE130970	19585	78	78	16	62	salmon_tximport_counts_entrez_gene_id	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130970/suppl/GSE130970_all_sample_salmon_tximport_counts_entrez_gene_ID.csv.gz

@@ -1,0 +1,2 @@
+accession	n_genes	n_samples	n_with_fibrosis	n_advanced	n_non_advanced	matrix_type	source_url
+GSE135251	61953	216	216	68	148	raw_counts_individual_gsm_files	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE135nnn/GSE135251/suppl/GSE135251_RAW.tar

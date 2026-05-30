@@ -1,0 +1,2 @@
+accession	n_genes	n_samples	n_with_fibrosis	n_advanced	n_non_advanced	matrix_type	source_url
+GSE126848	19758	57	0	0	0	raw_gene_counts	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE126nnn/GSE126848/suppl/GSE126848_Gene_counts_raw.txt.gz

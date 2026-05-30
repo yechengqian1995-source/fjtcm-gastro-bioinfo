@@ -1,0 +1,6 @@
+accession	n_samples	n_with_fibrosis	n_advanced	n_non_advanced	n_with_nas	n_with_age	n_with_sex	disease_labels
+GSE126848	57	0	0	0	0	0	57	healthy;NAFLD;NASH;obese
+GSE130970	78	78	16	62	78	78	78	liver biopsy
+GSE135251	216	216	68	148	216	0	0	Control;NAFLD
+GSE162694	143	143	20	123	117	143	143	Liver biopsy
+GSE167523	98	0	0	0	0	98	98	NAFL;NAFLD;NASH
