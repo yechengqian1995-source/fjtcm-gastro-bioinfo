@@ -1,4 +1,4 @@
-﻿# Raw data and redistribution notice
+# Raw data and redistribution notice
 
 This repository does not redistribute raw public sequencing data, raw single-cell/single-nucleus matrices, large Seurat/RDS objects, protected clinical records, or copyrighted article PDFs.
 

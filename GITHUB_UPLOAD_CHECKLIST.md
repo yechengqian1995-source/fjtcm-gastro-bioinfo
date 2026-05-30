@@ -1,4 +1,4 @@
-﻿# GitHub upload checklist
+# GitHub upload checklist
 
 Repository URL currently shown by GitHub:
 https://github.com/yechengqian1995-source/fjtcm-gastro-bioinfo

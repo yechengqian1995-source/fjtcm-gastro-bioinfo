@@ -1,4 +1,4 @@
-﻿# MASLD mechanostress/stromal transcriptomic program
+# MASLD mechanostress/stromal transcriptomic program
 
 This repository contains the manuscript-supporting analysis scripts, locked gene sets, processed result tables, figure source data, and reproducibility notes for a public-dataset bioinformatics study of a mechanostress/stromal transcriptomic program in MASLD-associated liver fibrosis.
 
@@ -21,7 +21,7 @@ The scripts are numbered to reflect the intended analysis order. Processed resul
 
 ## Version
 
-Manuscript submission archive: `v1.0.1`
+Manuscript submission archive: `v1.0.3`
 
 GitHub repository: `https://github.com/yechengqian1995-source/fjtcm-gastro-bioinfo`
 
